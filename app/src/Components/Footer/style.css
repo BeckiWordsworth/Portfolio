@@ -1,0 +1,36 @@
+footer {
+  background-color: #444;
+  color: #eee;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 20px;
+  padding-bottom: 16px;
+  padding-left: 0px;
+  padding-right: 0px;
+  color: #bbbbbb;
+  font-size: 0.9em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer-content .footer-last {
+  text-align: right;
+}
+
+.footer-content p {
+  margin: 0px;
+}
+
+.footer-content a {
+  text-decoration: none;
+  color: white;
+  text-shadow: 1px 1px 1px #555;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}

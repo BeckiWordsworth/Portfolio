@@ -1,0 +1,166 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "type": "assignment",
+      "title": "Fitness App",
+      "previewImage": "fitness-small.jpg",
+      "heroImage": "fitness-hero.jpg",
+      "techSpecs": ["html", "SASS", "Javascript", "React", "Novi.js"],
+      "toolBox": ["Git", "Slack", "Trello"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-4 day",
+      "gitUrl": "https://github.com/BeckiW/Fitness-App",
+      "description": "A exercise app built with React. The app was designed for Svenska Spel around their Gräsroten scheme, so you can choose (and change) the sports team you want to play for using their internal API and then record your exercise hours to gain points for that team. There is also a gamification page where you get badges for different levels of points/exercise you complete. It utilises Novi's data visualisation library for the statistics page as I wanted to dig deeper into Data Visualisation with D3 type libraries, so a lot of data manipulation was involved.",
+      "shortDescription": "A exercise app built with React and Novi data visualisation library, that combines fitness monitoring with gamification for Svenska Spel's Gräsroten scheme."
+    },
+
+    {
+      "id": 2,
+      "type": "assignment",
+      "title": "DuoPhysics",
+      "previewImage": "physics-small.jpg",
+      "heroImage": "physics-hero.jpg",
+      "techSpecs": [
+        "SASS",
+        "Javascript (ES6)",
+        "React",
+        "React Router",
+        "Node",
+        "Express",
+        "MongoDB"
+      ],
+      "toolBox": ["Git", "Trello"],
+      "more": ["Concept Development", "Agile Methodology"],
+      "deliveryTime": "5-10 days",
+      "solution": "Lorem ipsum dolor sit amet",
+      "gitUrl": "https://github.com/BeckiW/Physics-Education-Game",
+      "description": "Inspired by DuoLingo, this physics game was designed to inspire people to learn and love physics as much as I do. Built with SASS, React, Node, Express, and MongoDb. The site consists of a landing page, a topics page, game page and stats page. It also has a login and signup functions with bcrypt hashed passwords. Added extras include some data viz with the D3.js wrapper, Nivo.",
+      "shortDescription": "Physics quizzes with added gamification and data viz. Built with SASS, React, Node, Express, MongoDB"
+    },
+
+    {
+      "id": 3,
+      "type": "assignment",
+      "title": "Javascript Space Avengers Game ",
+      "previewImage": "space-small.jpg",
+      "heroImage": "space-large.jpg",
+      "techSpecs": ["HTML5", "CSS", "Javascript", "Phaser.js"],
+      "toolBox": ["Git", "Brackets", "Trello"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-2 day",
+      "solution": "Lorem ipsum dolor sit amet",
+      "demoUrl": "http://beckiwordsworth.com/project-space-avengers/",
+      "gitUrl": "https://github.com/BeckiW/Space-Avengers",
+      "description": "Fly through space and destroy the asteroids before they destroy you. This small Space Invaders type game is built with HTML, CSS, Javascript and Phaser.js and allows you to dodge and shoot asteroids. Next steps would be to increase the difficulty as you continue through the game and have a final boss level at the end! ",
+      "shortDescription": "A Space Invaders style game built with Javascript and Phaser.js. "
+    },
+
+    {
+      "id": 4,
+      "type": "assignment",
+      "title": "Storage App",
+      "previewImage": "storage3.png",
+      "heroImage": "storage3.png",
+      "techSpecs": [
+        "Javascript (ES6+)",
+        "React Native",
+        "React Hooks",
+        "restdb.io"
+      ],
+      "toolBox": ["Git", "Slack", "Trello"],
+      "more": ["Concept Development", "Agile Methodology"],
+      "deliveryTime": "2-3 day",
+      "gitUrl": "https://github.com/BeckiW/storage-app",
+      "description": "A React Native that can be used to monitor which employees are on leave/holiday so you can store their items while they are away, giving you space but also looking after their equipment and personal items, and reminds you when they are returning. The app gives you the ability to inventory all their computers/desks/boxes, add and update their leave and return date and remind you when they are about to return so you can remove things from storage. Built with React Native using React Hooks and restdb.io as a backend",
+      "shortDescription": "A React Native used to monitor which employees are on leave/holiday so you can store items while they are away and reminds you when they are returning"
+    },
+
+    {
+      "id": 5,
+      "type": "assignment",
+      "title": "Bookshop",
+      "previewImage": "books-small.jpg",
+      "heroImage": "books-hero.jpg",
+      "techSpecs": [
+        "HTML5",
+        "SASS",
+        "Javascript (ES6)",
+        "React",
+        "Node",
+        "MongoDB"
+      ],
+      "toolBox": ["Git", "Slack", "Trello"],
+      "more": ["Concept Development", "Agile Methodology"],
+      "deliveryTime": "2-3 day",
+      "gitUrl": "https://github.com/BeckiW/Bookshop-Site",
+      "description": "In partnership with Fyndiq and YDB, the idea of this project was to build a site where you could add and rate products. The site also has login functions, encryption with bcrypt hashed passwords, and server-side validation. Added extras include pagination via the API",
+      "shortDescription": "A bookshop product site where you can add and rate books. This site is built with SASS, React, Node, Express and MongoDB."
+    },
+
+    {
+      "id": 6,
+      "type": "assignment",
+      "title": "iOS To-Do App",
+      "previewImage": "to-do-small.jpg",
+      "heroImage": "todo-hero.jpg",
+      "techSpecs": ["Swift", "iOS"],
+      "toolBox": ["XCode", "Git"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-2 day",
+      "gitUrl": "https://github.com/BeckiW/To-do-list",
+      "description": "An iOS to-do list built with Swift. Originally built in 2017, this multi-screen app (using advanced segues and permentant storage) enables you to create, store and delete messages and reminders for the future.",
+      "shortDescription": "An iOS to-do list built with Swift. This multi-screen app (using advanced segues and permentant storage) enables you to create, store and delete messages and reminders for the future."
+    },
+
+    {
+      "id": 7,
+      "type": "assignment",
+      "title": "Sverige Radio Player",
+      "previewImage": "Sverige-Radio-small.jpg",
+      "heroImage": "Sverige-Radio-Hero.jpg",
+      "techSpecs": ["HTML5", "CSS", "Javascript (ES6)", "React", "RESTful API"],
+      "toolBox": ["Git", "Postman", "Slack", "Trello"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-2 days",
+      "demo": "[Sverige Radio Player Demo]()",
+      "demoUrl": "http://beckiwordsworth.com/project-radio-player/",
+      "gitUrl": "https://github.com/BeckiW/Radio-Player",
+      "description": "A searchable radio player using channels from the Sverige Radio's API. The search function lets you filter through the channels and find your favourite station to play. The page itself is responsive with media queries for mobile and tablet.",
+      "shortDescription": "A searchable radio player built in React using Sveriges Radio's API to fetch, filter and play your favourite radio channel."
+    },
+
+    {
+      "id": 8,
+      "type": "assignment",
+      "title": "Food Blog",
+      "previewImage": "food-blog-small.jpg",
+      "heroImage": "food-blog-hero.jpg",
+      "techSpecs": ["HTML5", "CSS", "Javascript (ES6)", "RESTful API"],
+      "toolBox": ["Git", "Postman", "Slack", "Trello"],
+      "more": ["Concept Development", "Agile Methodology"],
+      "deliveryTime": "1-4 days",
+      "solution": "Lorem ipsum dolor sit amet",
+      "demo": "[Expressen Online Newspaper Demo]()",
+      "demoUrl": "http://beckiwordsworth.com/project-food-blog/",
+      "gitUrl": "https://github.com/BeckiW/Expressen-Online-Newspaper",
+      "description": "New online newspaper made for Bonnier News using Vanilla Javascript, HTML, and CSS, along with the Google News API. We were tasked with developing a new lifestyle site and we chose a food theme. You are able to filter through food catagories and load more articles if you want to see more.",
+      "shortDescription": "Designed a new online lifestyle site using Javascript, HTML, CSS and Google's News API for Bonnier News"
+    },
+
+    {
+      "id": 9,
+      "type": "assignment",
+      "title": "iOS Location App",
+      "previewImage": "Location-small.jpg",
+      "heroImage": "location-hero.jpg",
+      "techSpecs": ["Swift", "iOS"],
+      "toolBox": ["XCode", "Git"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-2 day",
+      "gitUrl": "https://github.com/BeckiW/Where-did-I-leave-my-car",
+      "description": "Got sick of forgetting where I parked my car so I built this app which lets you find and store locations so you can come back to them later. This multi-screen app (using advanced segues and navigation contol) is built with Swift for iOS, it makes use of geolocation and permenant storage.",
+      "shortDescription": "An Swift location based app that uses local storage to enables you to put pins in memorable location and return later to find them "
+    }
+  ]
+}
