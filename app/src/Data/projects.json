@@ -10,7 +10,7 @@
       "toolBox": ["Git", "Slack", "Trello"],
       "more": ["Agile Methodology"],
       "deliveryTime": "1-4 day",
-      "gitUrl": "https://github.com/BeckiW/Fitness-App",
+      "gitUrl": "https://github.com/BeckiWordsworth/Fitness-App",
       "description": "A exercise app built with React. The app was designed for Svenska Spel around their Gräsroten scheme, so you can choose (and change) the sports team you want to play for using their internal API and then record your exercise hours to gain points for that team. There is also a gamification page where you get badges for different levels of points/exercise you complete. It utilises Novi's data visualisation library for the statistics page as I wanted to dig deeper into Data Visualisation with D3 type libraries, so a lot of data manipulation was involved.",
       "shortDescription": "A exercise app built with React and Novi data visualisation library, that combines fitness monitoring with gamification for Svenska Spel's Gräsroten scheme."
     },
@@ -34,7 +34,7 @@
       "more": ["Concept Development", "Agile Methodology"],
       "deliveryTime": "5-10 days",
       "solution": "Lorem ipsum dolor sit amet",
-      "gitUrl": "https://github.com/BeckiW/Physics-Education-Game",
+      "gitUrl": "https://github.com/BeckiWordsworth/Physics-Education-Game",
       "description": "Inspired by DuoLingo, this physics game was designed to inspire people to learn and love physics as much as I do. Built with SASS, React, Node, Express, and MongoDb. The site consists of a landing page, a topics page, game page and stats page. It also has a login and signup functions with bcrypt hashed passwords. Added extras include some data viz with the D3.js wrapper, Nivo.",
       "shortDescription": "Physics quizzes with added gamification and data viz. Built with SASS, React, Node, Express, MongoDB"
     },

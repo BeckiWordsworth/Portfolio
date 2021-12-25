@@ -31,7 +31,10 @@ class ProjectPageTech extends React.Component {
           </div>
 
           <div className="button-container-tech">
-            <a href="https://github.com/BeckiW" className="button-tech">
+            <a
+              href="https://github.com/BeckiWordsworth"
+              className="button-tech"
+            >
               Visit Github
             </a>
           </div>

@@ -23,7 +23,7 @@ class About extends React.Component {
               <div class="direction-l">
                 <div class="flag-wrapper">
                   <span class="hexa"></span>
-                  <span class="flag">Software Developer</span>
+                  <span class="flag">Development Lead</span>
                   <span class="time-wrapper">
                     <span class="time">Apr 2020 - Present</span>
                   </span>
@@ -34,15 +34,14 @@ class About extends React.Component {
                   At Hiotlabs we are developing tech to prevent and minimise
                   property damage.
                   <br /> <br />
-                  We are a product company that leverages IoT and Machine
-                  Learning to create new and innovative solutions to re-define
-                  the insurance industry for the better. My role is across the
-                  whole of our stack, with a bit more focus on the backend, but
-                  I enjoy working with everything from our React Native apps all
-                  the way down to our sensors.
+                  I lead all activities within development at Hiotlabs including
+                  management of people and development processes while also
+                  working hands-on across the whole of our stack, from
+                  frontend/apps all the way to our backend and hardware, but
+                  with a bit more focus on the backend.
                   <br /> <br />
                   Highlights: Javascript (ES6+), React, React Native, Redux,
-                  Node, MongoDB, Docker, and occasionally Python
+                  Node, MongoDB, Docker, Kubernetes
                 </div>
               </div>
             </li>
