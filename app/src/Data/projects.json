@@ -51,7 +51,7 @@
       "deliveryTime": "1-2 day",
       "solution": "Lorem ipsum dolor sit amet",
       "demoUrl": "http://beckiwordsworth.com/project-space-avengers/",
-      "gitUrl": "https://github.com/BeckiW/Space-Avengers",
+      "gitUrl": "https://github.com/BeckiWordsworth/Space-Avengers-Game",
       "description": "Fly through space and destroy the asteroids before they destroy you. This small Space Invaders type game is built with HTML, CSS, Javascript and Phaser.js and allows you to dodge and shoot asteroids. Next steps would be to increase the difficulty as you continue through the game and have a final boss level at the end! ",
       "shortDescription": "A Space Invaders style game built with Javascript and Phaser.js. "
     },
@@ -71,7 +71,7 @@
       "toolBox": ["Git", "Slack", "Trello"],
       "more": ["Concept Development", "Agile Methodology"],
       "deliveryTime": "2-3 day",
-      "gitUrl": "https://github.com/BeckiW/storage-app",
+      "gitUrl": "https://github.com/BeckiWordsworth/storage-app",
       "description": "A React Native that can be used to monitor which employees are on leave/holiday so you can store their items while they are away, giving you space but also looking after their equipment and personal items, and reminds you when they are returning. The app gives you the ability to inventory all their computers/desks/boxes, add and update their leave and return date and remind you when they are about to return so you can remove things from storage. Built with React Native using React Hooks and restdb.io as a backend",
       "shortDescription": "A React Native used to monitor which employees are on leave/holiday so you can store items while they are away and reminds you when they are returning"
     },
@@ -93,7 +93,7 @@
       "toolBox": ["Git", "Slack", "Trello"],
       "more": ["Concept Development", "Agile Methodology"],
       "deliveryTime": "2-3 day",
-      "gitUrl": "https://github.com/BeckiW/Bookshop-Site",
+      "gitUrl": "https://github.com/BeckiWordsworth/Bookshop-site",
       "description": "In partnership with Fyndiq and YDB, the idea of this project was to build a site where you could add and rate products. The site also has login functions, encryption with bcrypt hashed passwords, and server-side validation. Added extras include pagination via the API",
       "shortDescription": "A bookshop product site where you can add and rate books. This site is built with SASS, React, Node, Express and MongoDB."
     },
@@ -108,7 +108,7 @@
       "toolBox": ["XCode", "Git"],
       "more": ["Agile Methodology"],
       "deliveryTime": "1-2 day",
-      "gitUrl": "https://github.com/BeckiW/To-do-list",
+      "gitUrl": "https://github.com/BeckiWordsworth/todo-list",
       "description": "An iOS to-do list built with Swift. Originally built in 2017, this multi-screen app (using advanced segues and permentant storage) enables you to create, store and delete messages and reminders for the future.",
       "shortDescription": "An iOS to-do list built with Swift. This multi-screen app (using advanced segues and permentant storage) enables you to create, store and delete messages and reminders for the future."
     },
@@ -125,7 +125,7 @@
       "deliveryTime": "1-2 days",
       "demo": "[Sverige Radio Player Demo]()",
       "demoUrl": "http://beckiwordsworth.com/project-radio-player/",
-      "gitUrl": "https://github.com/BeckiW/Radio-Player",
+      "gitUrl": "https://github.com/BeckiWordsworth/radio-player",
       "description": "A searchable radio player using channels from the Sverige Radio's API. The search function lets you filter through the channels and find your favourite station to play. The page itself is responsive with media queries for mobile and tablet.",
       "shortDescription": "A searchable radio player built in React using Sveriges Radio's API to fetch, filter and play your favourite radio channel."
     },
@@ -143,7 +143,7 @@
       "solution": "Lorem ipsum dolor sit amet",
       "demo": "[Expressen Online Newspaper Demo]()",
       "demoUrl": "http://beckiwordsworth.com/project-food-blog/",
-      "gitUrl": "https://github.com/BeckiW/Expressen-Online-Newspaper",
+      "gitUrl": "https://github.com/BeckiWordsworth/Online-Newspaper",
       "description": "New online newspaper made for Bonnier News using Vanilla Javascript, HTML, and CSS, along with the Google News API. We were tasked with developing a new lifestyle site and we chose a food theme. You are able to filter through food catagories and load more articles if you want to see more.",
       "shortDescription": "Designed a new online lifestyle site using Javascript, HTML, CSS and Google's News API for Bonnier News"
     },
