@@ -7,7 +7,7 @@ class About extends React.Component {
     this.state = {
       name: "",
       email: "",
-      message: ""
+      message: "",
     };
   }
 
@@ -20,12 +20,38 @@ class About extends React.Component {
 
           <ul class="timeline">
             <li>
-              <div class="direction-l">
+              <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Development Lead</span>
                   <span class="time-wrapper">
-                    <span class="time">Apr 2020 - Present</span>
+                    <span class="time">Oct 2020 - Present</span>
+                  </span>
+                </div>
+                <div class="desc">
+                  <strong>Hiotlabs AB, Stockholm</strong>
+                  <br /> <br />
+                  At Hiotlabs we are developing tech to prevent and minimise
+                  property damage.
+                  <br /> <br />I lead all activities within development at
+                  Hiotlabs including management of people and development
+                  processes while also working hands-on across the whole of our
+                  stack, from frontend/apps all the way to our backend and
+                  hardware, but with a bit more focus on the backend.
+                  <br /> <br />
+                  Highlights: Javascript (ES6+), React, React Native, Redux,
+                  Node, MongoDB, Docker, Kubernetes
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="direction-l">
+                <div class="flag-wrapper">
+                  <span class="hexa" />
+                  <span class="flag">Software Developer</span>
+                  <span class="time-wrapper">
+                    <span class="time">Apr 2020 - Sept 2020</span>
                   </span>
                 </div>
                 <div class="desc">
@@ -34,11 +60,10 @@ class About extends React.Component {
                   At Hiotlabs we are developing tech to prevent and minimise
                   property damage.
                   <br /> <br />
-                  I lead all activities within development at Hiotlabs including
-                  management of people and development processes while also
-                  working hands-on across the whole of our stack, from
-                  frontend/apps all the way to our backend and hardware, but
-                  with a bit more focus on the backend.
+                  My role included working across the whole of our stack, from
+                  our two hybrid apps, frontend, all the way to our backend and
+                  hardware, but with a bit more focus on the backend. I also
+                  worked with our infrastructure.
                   <br /> <br />
                   Highlights: Javascript (ES6+), React, React Native, Redux,
                   Node, MongoDB, Docker, Kubernetes
@@ -49,7 +74,7 @@ class About extends React.Component {
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Software Developer</span>
                   <span class="time-wrapper">
                     <span class="time">Feb 2019 - Apr 2020</span>
@@ -71,7 +96,7 @@ class About extends React.Component {
             <li>
               <div class="direction-l">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Software Developer</span>
                   <span class="time-wrapper">
                     <span class="time">Nov 2018 - Feb 2019</span>
@@ -92,7 +117,7 @@ class About extends React.Component {
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Javascript Developer</span>
                   <span class="time-wrapper">
                     <span class="time">Sept 2018 - Dec 2018</span>
@@ -114,7 +139,7 @@ class About extends React.Component {
             <li>
               <div class="direction-l">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Head of Recruitment</span>
                   <span class="time-wrapper">
                     <span class="time">Sept 2015 - Sept 2018</span>
@@ -142,7 +167,7 @@ class About extends React.Component {
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Research Scientist</span>
                   <span class="time-wrapper">
                     <span class="time">Jan 2014 - Sept 2014</span>
@@ -167,20 +192,20 @@ class About extends React.Component {
             <li>
               <div class="direction-l">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Travelling in Canada</span>
                   <span class="time-wrapper">
                     <span class="time">Jan 2013 - Dec 2013</span>
                   </span>
                 </div>
-                <div class="desc"></div>
+                <div class="desc" />
               </div>
             </li>
 
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">Content Scientist</span>
                   <span class="time-wrapper">
                     <span class="time">Jan 2014 - Sept 2014</span>
@@ -202,7 +227,7 @@ class About extends React.Component {
             <li>
               <div class="direction-l">
                 <div class="flag-wrapper">
-                  <span class="hexa"></span>
+                  <span class="hexa" />
                   <span class="flag">PhD/Researcher</span>
                   <span class="time-wrapper">
                     <span class="time">Oct 2006 - May 2012</span>

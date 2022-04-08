@@ -52,8 +52,8 @@ class Landing extends React.Component {
             &nbsp;an organisation that runs events and workshops aimed at
             getting more women into coding.
             <br /> <br />
-            Overall, I want to work with innovative technology alongside
-            passionate people and make a bit of a difference in the world.
+            Overall, I just enjoy working with innovative technology alongside
+            passionate people, and make a bit of a difference in the world.
             <br />
             <br /> Tech: HTML5, CSS, JavaScript (ES6+), React, Redux, NodeJS,
             Python, MongoDB
