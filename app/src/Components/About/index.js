@@ -19,6 +19,51 @@ class About extends React.Component {
           <hr />
 
           <ul class="timeline">
+
+          <li>
+              <div class="direction-r">
+                <div class="flag-wrapper">
+                  <span class="hexa" />
+                  <span class="flag">CTO</span>
+                  <span class="time-wrapper">
+                    <span class="time">Aug 2023 - Present</span>
+                  </span>
+                </div>
+                <div class="desc">
+                  <strong>Hiotlabs AB, Stockholm</strong>
+                  <br /> <br />
+                  VivoLogica offers the first cloud based medical record system for pre-clinical in vivo studies on the market, a best-in-class multi-platform compliant with 3R and research regulations making it easy to stay compliant while saving loads of time. 
+                  <br /> <br />Leading all Engineering and Product development in the company, balancing technical and buisness needs to build a product that our customers find intuitive and love to use. Everything from hands on development and growing and leading a team to building strategy.
+                  <br /> <br />
+                  Highlights: Javascript/Typescript, React, React Native, Redux,
+                  Node, MongoDB, Docker, Kubernetes
+                </div>
+              </div>
+            </li>
+
+          <li>
+              <div class="direction-l">
+                <div class="flag-wrapper">
+                  <span class="hexa" />
+                  <span class="flag">Head of Engineering</span>
+                  <span class="time-wrapper">
+                    <span class="time">April 2022 - Aug 2023</span>
+                  </span>
+                </div>
+                <div class="desc">
+                  <strong>Hiotlabs AB, Stockholm</strong>
+                  <br /> <br />
+                  At Hiotlabs we are developing tech to prevent and minimise
+                  property damage.
+                  <br /> <br />
+                  My role focusses on developing and leading the strategic technical direction and product strategy for the company alongside direct management of a cross functional team (6 developers, 3 consultants, 1 UX/UI, Product Manager).
+                  <br /> <br />
+                  Highlights: Javascript/Typescript, React, React Native, Redux,
+                  Node, MongoDB, TimescaleDb, Redis, Docker, Kubernetes
+                </div>
+              </div>
+            </li>
+
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
