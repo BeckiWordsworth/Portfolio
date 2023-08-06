@@ -20,8 +20,10 @@ class ProjectPageTech extends React.Component {
                 <ProjectPreview
                   id={project.id}
                   name={project.title}
+                  icon={project.icon}
                   image={project.previewImage}
                   shortDescription={project.shortDescription}
+                  veryShortDescription={project.veryShortDescription}
                   Description={project.Description}
                   deliveryTime={project.deliveryTime}
                   gitURL={project.gitURL}

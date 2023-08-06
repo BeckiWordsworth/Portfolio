@@ -15,8 +15,8 @@ class Landing extends React.Component {
             My name is <strong>Becki</strong>
           </h1>
           <div class="tagline">
-            I am a Software Developer and Researcher who loves new technology,
-            science and Formula 1.
+            I am an Engineering Leader, Software Developer, and Researcher who loves new technology,
+            science, and Formula 1.
           </div>
         </div>
 
@@ -24,39 +24,23 @@ class Landing extends React.Component {
           <h2>About Me</h2>
           <hr />
           <p>
-            I am a self-driven and creative problem solver with a PhD in Medical
-            Physics and a passion for working with technology, software and cool
-            new ideas who is currently digging deep into JavaScript(ES6+),
-            React, Redux, and Node.js. <br /> <br />
-            While working in research I was using statistical and scripting
-            languages (Python, SPSS, Matlab) for analysis and that inspired me
-            to delve deeper into programming and eventually I made the leap and
-            moved from hobby programmer to full-time developer. <br /> <br />
-            Prior to that I spent 3 years as a technical recruiter, leading my
-            own team, and working with a range of companies from exciting
-            startups to worldwide brands such as Apple. In this time I was able
-            to dive deeper into understanding the buisness aspects of technology
-            choices and team building and now I am putting all these pieces
-            together. <br /> <br />
-            In my spare time, I like to build small applications with
-            JavaScript, Python and Swift and take time improving my knowledge
-            and skills in the area of machine learning and AI. I also enjoy
-            getting involved in the community, I am a co-organiser of{" "}
-            <a href="https://www.meetup.com/sthlm-js/" target="_blank">
-              sthlm.js meetup group
-            </a>
-            &nbsp;and head of events and a teacher for{" "}
-            <a href="https://www.code-excursion.com/" target="_blank">
-              Code Excursion,
-            </a>
-            &nbsp;an organisation that runs events and workshops aimed at
-            getting more women into coding.
+          I am an Engineering Leader and Software Developer with a PhD in Physics, a passion for innovation, and a mild obsession with data. I have a history of building and scaling engineering teams and I’m at my best when combining my technical and people skills to motivate and guide others. 
+           <br /> <br />
+           While working in research I focussed on statistical analysis and data visualisation and from that my interest in development grew. After research, I spent 3 years as a technical recruiter, growing tech teams with some of the most innovative companies in the world. This inspired me to dive deeper into understanding technology and software development from a business context and now I am putting all these pieces together. <br /> <br />
+            
+           I enjoy the challenge of balancing technical and business requirements so that we can efficiently create exciting and robust products. Whenever possible, I am always looking to use a data-driven approach - for instance, to ensure our products are intuitive and easy to use. <br /> <br />
+            
+           In my spare time, I like to stay up to date by building small applications with JavaScript/Typescript and Python, improving my knowledge and skills in the area of machine learning and AI (a long term passion of mine), and reading and writing blogs relating to tech, leadership, and recruitment. You can read some of them on <a href="https://medium.com/@becki.wordsworth" target="_blank">Medium </a> <br /> <br />
+
+           I also enjoy getting involved and giving back to the tech community. I am a co-organiser of <a href="https://www.meetup.com/sthlm-js/" target="_blank">
+          sthlm.js</a>, a large Javascript Meetup group in Stockholm, and head of events and workshop leader for{" "}
+            <a href="https://www.code-excursion.com/" target="_blank"> Code Excursion</a>, an organisation runnning programming classes and events aimed at bringing more women into tech. 
             <br /> <br />
             Overall, I just enjoy working with innovative technology alongside
             passionate people, and make a bit of a difference in the world.
             <br />
-            <br /> Tech: HTML5, CSS, JavaScript (ES6+), React, Redux, NodeJS,
-            Python, MongoDB
+            <br /> Tech: HTML5, CSS, JavaScript/Typescript, React, Redux, NodeJS,
+            Python, MongoDB, Docker, Kubernetes
           </p>
         </section>
 

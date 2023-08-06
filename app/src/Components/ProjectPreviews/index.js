@@ -14,7 +14,9 @@ class ProjectPreviews extends React.Component {
               <ProjectPreview id={project.id}
                 name={project.title}
                 image={project.previewImage}
+                icon={project.icon}
                 shortDescription={project.shortDescription}
+                veryShortDescription={project.veryShortDescription}
                 Description={project.Description}
                 deliveryTime={project.deliveryTime} />
               )

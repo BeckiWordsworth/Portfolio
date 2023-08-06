@@ -8,19 +8,19 @@ class Skills extends React.Component {
         <div className="coding-skills">
           <h3>Coding</h3>
           <ul>
-            <li>HTML5</li>
-            <li>CSS</li>
+            <li>HTML/CSS</li>
             <li>SASS</li>
-            <li>Javascript (ES6+)</li>
+            <li>Javascript/Typescript</li>
             <li>React</li>
             <li>Redux</li>
+            <li>MobX</li>
+            <li>Next.js</li>
             <li>Node</li>
             <li>Express.js</li>
             <li>MongoDB</li>
             <li>Docker</li>
-            <li>ElasticSearch</li>
+            <li>Kubernetes</li>
             <li>Python</li>
-            <li>Swift</li>
           </ul>
         </div>
 

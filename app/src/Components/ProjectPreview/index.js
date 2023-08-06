@@ -5,14 +5,14 @@ class ProjectPreview extends React.Component {
 
   render() {
     return (
-      <div className="project-preview">
+      <div className="project-preview" onClick={() => {window.location.href = "/project/" + this.props.id}}>
         <div className="project-preview-inner">
-          <div className="project-preview-image">
-            <a href={"/project/" + this.props.id}><img src={"/" + this.props.image} alt="project Image" /></a>
+          <div className="project-preview-top">
+            <img src={"/" + this.props.icon} />
+            <p>{this.props.name}</p>
           </div>
-          <div className="project-preview-summary">
-            <a href={"/project/" + this.props.id}><span class="project-title">{this.props.name}</span></a>
-            <p class="project-description">{this.props.shortDescription}</p>
+          <div className="project-preview-bottom">
+            {this.props.veryShortDescription}
           </div>
         </div>
       </div>
