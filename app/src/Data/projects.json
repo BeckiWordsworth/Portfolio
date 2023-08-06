@@ -7,7 +7,7 @@
       "icon": "icons/dumbbell.png",
       "previewImage": "fitness-small.jpg",
       "heroImage": "fitness-hero.jpg",
-      "techSpecs": ["html", "SASS", "Javascript", "React", "Novi.js"],
+      "techSpecs": ["SASS", "Javascript", "React", "Novi.js"],
       "toolBox": ["Git", "Slack", "Trello"],
       "more": ["Agile Methodology"],
       "deliveryTime": "1-4 day",
@@ -26,7 +26,7 @@
       "heroImage": "physics-hero.jpg",
       "techSpecs": [
         "SASS",
-        "Javascript (ES6)",
+        "Javascript",
         "React",
         "React Router",
         "Node",
@@ -72,7 +72,7 @@
       "previewImage": "storage3.png",
       "heroImage": "storage3.png",
       "techSpecs": [
-        "Javascript (ES6+)",
+        "Javascript",
         "React Native",
         "React Hooks",
         "restdb.io"
@@ -95,7 +95,6 @@
       "previewImage": "books-small.jpg",
       "heroImage": "books-hero.jpg",
       "techSpecs": [
-        "HTML5",
         "SASS",
         "Javascript (ES6)",
         "React",
@@ -137,7 +136,7 @@
       "icon": "icons/radio.png",
       "previewImage": "Sverige-Radio-small.jpg",
       "heroImage": "Sverige-Radio-Hero.jpg",
-      "techSpecs": ["HTML5", "CSS", "Javascript (ES6)", "React", "RESTful API"],
+      "techSpecs": ["CSS", "Javascript (ES6)", "React", "RESTful API"],
       "toolBox": ["Git", "Postman", "Slack", "Trello"],
       "more": ["Agile Methodology"],
       "deliveryTime": "1-2 days",
@@ -157,7 +156,7 @@
       "icon": "icons/salad.png",
       "previewImage": "food-blog-small.jpg",
       "heroImage": "food-blog-hero.jpg",
-      "techSpecs": ["HTML5", "CSS", "Javascript (ES6)", "RESTful API"],
+      "techSpecs": ["HTML/CSS", "Javascript", "RESTful API"],
       "toolBox": ["Git", "Postman", "Slack", "Trello"],
       "more": ["Concept Development", "Agile Methodology"],
       "deliveryTime": "1-4 days",

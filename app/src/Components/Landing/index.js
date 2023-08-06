@@ -30,7 +30,7 @@ class Landing extends React.Component {
             
            I enjoy the challenge of balancing technical and business requirements so that we can efficiently create exciting and robust products. Whenever possible, I am always looking to use a data-driven approach - for instance, to ensure our products are intuitive and easy to use. <br /> <br />
             
-           In my spare time, I like to stay up to date by building small applications with JavaScript/Typescript and Python, improving my knowledge and skills in the area of machine learning and AI (a long term passion of mine), and reading and writing blogs relating to tech, leadership, and recruitment. You can read some of them on <a href="https://medium.com/@becki.wordsworth" target="_blank">Medium </a> <br /> <br />
+           In my spare time, I like to stay up to date by building small applications with JavaScript/Typescript and Python, improving my knowledge and skills in the area of machine learning and AI (a long term passion of mine - I refer you back to my mild obsession with all things data related), and reading and writing blogs relating to tech, leadership, and recruitment. You can read some of them on <a href="https://medium.com/@becki.wordsworth" target="_blank">Medium </a> <br /> <br />
 
            I also enjoy getting involved and giving back to the tech community. I am a co-organiser of <a href="https://www.meetup.com/sthlm-js/" target="_blank">
           sthlm.js</a>, a large Javascript Meetup group in Stockholm, and head of events and workshop leader for{" "}
