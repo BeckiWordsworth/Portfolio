@@ -26,7 +26,9 @@ class Landing extends React.Component {
           <p>
           I am an Engineering Leader and Software Developer with a PhD in Physics, a passion for innovation, and a mild obsession with data. I have a history of building and scaling engineering teams and I’m at my best when combining my technical and people skills to motivate and guide others. 
            <br /> <br />
-           While working in research I focussed on statistical analysis and data visualisation and from that my interest in development grew. After research, I spent 3 years as a technical recruiter, growing tech teams with some of the most innovative companies in the world. This inspired me to dive deeper into understanding technology and software development from a business context and now I am putting all these pieces together. <br /> <br />
+
+           While working in research, I focussed on statistical analysis and digging into different forms of data visualisation - trying to present complex concepts in a understandable way - which pushed me to delve deeper into programming. <br /> <br />
+           After research, I spent 3 years as a technical recruiter, growing tech teams with some of the most innovative companies in the world. This inspired me to dive deeper into understanding technology and software development from a business context and now I am putting all these pieces together. <br /> <br />
             
            I enjoy the challenge of balancing technical and business requirements so that we can efficiently create exciting and robust products. Whenever possible, I am always looking to use a data-driven approach - for instance, to ensure our products are intuitive and easy to use. <br /> <br />
             
