@@ -6,7 +6,7 @@
       "title": "Fitness App",
       "icon": "icons/dumbbell.png",
       "previewImage": "fitness-small.jpg",
-      "heroImage": "fitness-hero.jpg",
+      "heroImage": "fitness-app.png",
       "techSpecs": ["SASS", "Javascript", "React", "Novi.js"],
       "toolBox": ["Git", "Slack", "Trello"],
       "more": ["Agile Methodology"],
