@@ -3,6 +3,22 @@
     {
       "id": 1,
       "type": "assignment",
+      "title": "Basic Next Blog",
+      "icon": "icons/map.png",
+      "previewImage": "basic-blog-next.png",
+      "heroImage": "basic-blog-next.png",
+      "techSpecs": ["Javascript", "Next", "MongoDB"],
+      "toolBox": ["Git", "Slack", "Trello"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-4 day",
+      "gitUrl": "https://github.com/BeckiWordsworth/basic-next-blog",
+      "description": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next. Auth with JWT and styling with CSS modules",
+      "shortDescription": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next",
+      "veryShortDescription": "A basic full stack blog website built in Next.js 14"
+    },
+    {
+      "id": 2,
+      "type": "assignment",
       "title": "Fitness App",
       "icon": "icons/dumbbell.png",
       "previewImage": "fitness-small.jpg",
@@ -18,7 +34,7 @@
     },
 
     {
-      "id": 2,
+      "id": 3,
       "type": "assignment",
       "title": "DuoPhysics",
       "icon": "icons/atom.png",
@@ -45,7 +61,7 @@
     },
 
     {
-      "id": 3,
+      "id": 4,
       "type": "assignment",
       "title": "Space Avengers Game ",
       "icon": "icons/space-invaders.png",
@@ -65,7 +81,7 @@
     },
 
     {
-      "id": 4,
+      "id": 5,
       "type": "assignment",
       "title": "Storage App",
       "icon": "icons/open-box.png",
@@ -88,7 +104,7 @@
     },
 
     {
-      "id": 5,
+      "id": 6,
       "type": "assignment",
       "title": "Bookshop",
       "icon": "icons/stack-of-books.png",
@@ -112,7 +128,7 @@
     },
 
     {
-      "id": 6,
+      "id": 7,
       "type": "assignment",
       "title": "iOS To-Do App",
       "icon": "icons/to-do-list.png",
@@ -130,7 +146,7 @@
     },
 
     {
-      "id": 7,
+      "id": 8,
       "type": "assignment",
       "title": "Sverige Radio Player",
       "icon": "icons/radio.png",
@@ -150,7 +166,7 @@
     },
 
     {
-      "id": 8,
+      "id": 9,
       "type": "assignment",
       "title": "Food Blog",
       "icon": "icons/salad.png",
@@ -168,23 +184,6 @@
       "shortDescription": "Designed a new online lifestyle site using Javascript, HTML, CSS and Google's News API for Bonnier News",
       "veryShortDescription": "A new lifestyle blog site using Google's News API "
 
-    },
-
-    {
-      "id": 9,
-      "type": "assignment",
-      "title": "iOS Location App",
-      "icon": "icons/map.png",
-      "previewImage": "Location-small.jpg",
-      "heroImage": "location-hero.jpg",
-      "techSpecs": ["Swift", "iOS"],
-      "toolBox": ["XCode", "Git"],
-      "more": ["Agile Methodology"],
-      "deliveryTime": "1-2 day",
-      "gitUrl": "https://github.com/BeckiW/Where-did-I-leave-my-car",
-      "description": "Got sick of forgetting where I parked my car so I built this app which lets you find and store locations so you can come back to them later. This multi-screen app (using advanced segues and navigation contol) is built with Swift for iOS, it makes use of geolocation and permenant storage.",
-      "shortDescription": "An Swift location based app that uses local storage to enables you to put pins in memorable location and return later to find them ",
-      "veryShortDescription": "An Swift location based app that enables you to put pins in memorable locations so you can return later  "
     }
   ]
 }
