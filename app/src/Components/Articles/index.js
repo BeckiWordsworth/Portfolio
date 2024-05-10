@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import ArticleCard from "../ArticleCard";
 
 class ArticlePage extends React.Component {
   constructor(props) {
@@ -18,22 +19,7 @@ class ArticlePage extends React.Component {
   };
 
   render() {
-    return (
-      <div class="row">
-        <div class="column">
-          <div class="card">..</div>
-        </div>
-        <div class="column">
-          <div class="card">..</div>
-        </div>
-        <div class="column">
-          <div class="card">..</div>
-        </div>
-        <div class="column">
-          <div class="card">..</div>
-        </div>
-      </div>
-    );
+    return <ArticleCard></ArticleCard>;
   }
 }
 
