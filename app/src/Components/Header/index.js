@@ -12,9 +12,7 @@ class ProjectPage extends React.Component {
         <div className="logo">
           <span className="page-title">Becki Wordsworth</span>
           <br />
-          <span className="page-subtitle">
-            Software Developer &amp; Engineering Leader
-          </span>
+          <span className="page-subtitle">Software Developer &amp; Engineering Leader</span>
         </div>
         <div className="navigation">
           <nav>
@@ -27,6 +25,9 @@ class ProjectPage extends React.Component {
               </li>
               <li>
                 <a href="/my-projects/">Projects</a>
+              </li>
+              <li>
+                <a href="/articles/">Articles</a>
               </li>
               <li>
                 <a href="/phd/">PhD</a>
@@ -45,10 +46,7 @@ class ProjectPage extends React.Component {
               </a>
             </li>
             <li>
-              <a
-                href="https://www.linkedin.com/in/beckiwordsworth/"
-                target="_blank"
-              >
+              <a href="https://www.linkedin.com/in/beckiwordsworth/" target="_blank">
                 <img src="/linkedin-64.png" />
               </a>
             </li>
