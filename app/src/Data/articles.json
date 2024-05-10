@@ -2,17 +2,11 @@
   "articles": [
     {
       "id": 1,
-      "type": "assignment",
+      "type": "article",
       "title": "Navigating Technical Debt as an Engineering Leader",
       "previewImage": "help.png",
-      "techSpecs": ["Javascript", "Next", "MongoDB"],
-      "toolBox": ["Git", "Slack", "Trello"],
-      "more": ["Agile Methodology"],
-      "deliveryTime": "1-4 day",
-      "gitUrl": "https://github.com/BeckiWordsworth/basic-next-blog",
-      "description": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next. Auth with JWT and styling with CSS modules",
-      "shortDescription": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next",
-      "veryShortDescription": "A basic full stack blog website built in Next.js 14"
+      "mediumUrl": "https://medium.com/@becki.wordsworth/navigating-technical-debt-as-a-engineering-leader-eaca48a84cc1",
+      "preview": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!",
     }
   ]
 }
