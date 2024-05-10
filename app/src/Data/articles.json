@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "type": "assignment",
+      "title": "Navigating Technical Debt as an Engineering Leader",
+      "previewImage": "help.png",
+      "techSpecs": ["Javascript", "Next", "MongoDB"],
+      "toolBox": ["Git", "Slack", "Trello"],
+      "more": ["Agile Methodology"],
+      "deliveryTime": "1-4 day",
+      "gitUrl": "https://github.com/BeckiWordsworth/basic-next-blog",
+      "description": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next. Auth with JWT and styling with CSS modules",
+      "shortDescription": "A basic full stack blog website built in Next.js 14 so I could play around with new featrues in Next",
+      "veryShortDescription": "A basic full stack blog website built in Next.js 14"
+    }
+    
+  ]
+}
