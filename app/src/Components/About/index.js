@@ -25,7 +25,7 @@ class About extends React.Component {
                   <span class="hexa" />
                   <span class="flag">Web Engineering Manager</span>
                   <span class="time-wrapper">
-                    <span class="time">March 2023 - Present</span>
+                    <span class="time">Mar 2024 - now</span>
                   </span>
                 </div>
                 <div class="desc">
