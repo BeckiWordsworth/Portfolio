@@ -11,7 +11,7 @@ export default function ArticleCard({ title, previewImage, mediumURL, previewTex
 
   return (
     <Card sx={{ maxWidth: 345 }}>
-      <CardMedia sx={{ height: 140 }} image={previewImage} title="green iguana" />
+      <CardMedia sx={{ height: 190 }} image={"/" + previewImage} title="green iguana" />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
           {title}
@@ -21,7 +21,7 @@ export default function ArticleCard({ title, previewImage, mediumURL, previewTex
         </Typography>
       </CardContent>
       <CardActions>
-        <Button href={mediumURL} size="small">
+        <Button target="_blank" href={mediumURL} size="small">
           Read More
         </Button>
       </CardActions>

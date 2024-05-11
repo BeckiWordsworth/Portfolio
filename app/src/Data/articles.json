@@ -11,10 +11,18 @@
     {
       "id": 2,
       "type": "article",
-      "title": "Cracking the Code: Navigating the First Week as a Junior Developer — Demystifying Expectations",
-      "previewImage": "help.png",
+      "title": "Cracking the Code: Navigating the First Week as a Junior Developer",
+      "previewImage": "junior.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/cracking-the-code-navigating-the-first-week-as-a-junior-developer-demystifying-expectations-and-c6cb3a4d776a",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me?"
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 3,
+      "type": "article",
+      "title": "Making the most of office days for a hybrid team",
+      "previewImage": "team.png",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/making-the-most-of-office-days-for-a-hybrid-team-6bc3b5f3ea41",
+      "previewText": "Cards on the table, I like working hybrid. I know it’s not the popular opinion nowadays, but I do. I like the flexibility of being able to work at home but I also like going to the office and socialising with real life people from time to time. My team has been working hybrid since the end of the ..."
     }
   ]
 }
