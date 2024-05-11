@@ -6,7 +6,15 @@
       "title": "Navigating Technical Debt as an Engineering Leader",
       "previewImage": "help.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/navigating-technical-debt-as-a-engineering-leader-eaca48a84cc1",
-      "preview": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!",
+      "previewText": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!"
+    },
+    {
+      "id": 2,
+      "type": "article",
+      "title": "Cracking the Code: Navigating the First Week as a Junior Developer — Demystifying Expectations",
+      "previewImage": "help.png",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/cracking-the-code-navigating-the-first-week-as-a-junior-developer-demystifying-expectations-and-c6cb3a4d776a",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me?"
     }
   ]
 }
