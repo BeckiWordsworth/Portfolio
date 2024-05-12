@@ -23,6 +23,14 @@
       "previewImage": "team.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/making-the-most-of-office-days-for-a-hybrid-team-6bc3b5f3ea41",
       "previewText": "Cards on the table, I like working hybrid. I know it’s not the popular opinion nowadays, but I do. I like the flexibility of being able to work at home but I also like going to the office and socialising with real life people from time to time. My team has been working hybrid since the end of the ..."
+    },
+    {
+      "id": 4,
+      "type": "article",
+      "title": "Your first role in tech won’t be perfect — and it doesn’t have to be",
+      "previewImage": "lovejob.png",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/your-first-role-in-tech-wont-be-perfect-and-it-doesn-t-have-to-be-694d89fa6237",
+      "previewText": "Searching for your first developer role after a bootcamp, University, or self study can be hard. No one gets the first job they apply for and during the process you will question everything — is my code not perfect enough? Is my job title confusing? ..."
     }
   ]
 }
