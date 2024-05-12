@@ -31,6 +31,14 @@
       "previewImage": "lovejob.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/your-first-role-in-tech-wont-be-perfect-and-it-doesn-t-have-to-be-694d89fa6237",
       "previewText": "Searching for your first developer role after a bootcamp, University, or self study can be hard. No one gets the first job they apply for and during the process you will question everything — is my code not perfect enough? Is my job title confusing? ..."
+    },
+    {
+      "id": 5,
+      "type": "article",
+      "title": "What to expect when making the leap from developer to Tech Lead",
+      "previewImage": "techlead.png",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/what-to-expect-when-making-the-leap-from-developer-to-tech-lead-fdabd123c42a",
+      "previewText": "When I started my career in tech, leadership wasn’t really something I was thinking about — my aim was just on becoming the best programmer I could be ...."
     }
   ]
 }
