@@ -47,6 +47,14 @@
       "previewImage": "distractions.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/distractions-the-death-of-an-efficient-tech-team-f3984e09b15f",
       "previewText": "Perhaps you have just taken on the role of Tech Lead or Product Owner and everyone wants to meet with your developers, but you’re wondering… when are they going to get their coding done!?"
+    },
+    {
+      "id": 7,
+      "type": "article",
+      "title": "Breaking in to your new career in Tech",
+      "previewImage": "bootcamp.png",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/breaking-in-to-your-new-career-in-tech-getting-a-job-after-a-bootcamp-or-after-learning-the-b46d1a75c605",
+      "previewText": "New to tech? Practice interviewing like you’ve been practicing code. When many people make the move into development, especially those who have been in other industries, they don’t think much about the application and interview process. "
     }
   ]
 }
