@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
-import "./style.css"
-import Header from '../Header'
+import React, { Component } from "react";
+import "./style.css";
 
-const projectsJson = require("../../Data/projects.json")
+const projectsJson = require("../../Data/projects.json");
 
 class ProductPage extends React.Component {
-
   constructor(props) {
     super(props);
 
@@ -20,33 +18,39 @@ class ProductPage extends React.Component {
       } else {
         return false;
       }
-    })
+    });
 
     this.setState({
-      project: project
-    })
+      project: project,
+    });
   }
 
   render() {
-    if ( this.state.project )
-    {
+    if (this.state.project) {
       let demoLink = "";
       let gitLink = "";
 
-      if ( this.state.project.demoUrl ) {
-          demoLink = <a href={this.state.project.demoUrl} className="button">See it Live</a>
+      if (this.state.project.demoUrl) {
+        demoLink = (
+          <a href={this.state.project.demoUrl} className="button">
+            See it Live
+          </a>
+        );
       }
 
-      if ( this.state.project.gitUrl ) {
-          gitLink = <a href={this.state.project.gitUrl} className="button">Github Repo</a>
+      if (this.state.project.gitUrl) {
+        gitLink = (
+          <a href={this.state.project.gitUrl} className="button">
+            Github Repo
+          </a>
+        );
       }
 
       return (
         <div className="project-page">
-
           <div className="project-page-writing content-padding">
             <h1>{this.state.project.title}</h1>
-            <img className="project-image" src={"/" + this.state.project.heroImage} alt="project Image"  />
+            <img className="project-image" src={"/" + this.state.project.heroImage} alt="project Image" />
             <p>{this.state.project.description}</p>
           </div>
 
@@ -63,8 +67,8 @@ class ProductPage extends React.Component {
               <div className="toolbox-component">
                 <h3>Tech</h3>
                 <ul>
-                  {this.state.project.techSpecs.map((item)=> {
-                  return <li>{item}</li>
+                  {this.state.project.techSpecs.map((item) => {
+                    return <li>{item}</li>;
                   })}
                 </ul>
               </div>
@@ -73,7 +77,7 @@ class ProductPage extends React.Component {
                 <h3>Toolbox</h3>
                 <ul>
                   {this.state.project.toolBox.map((item) => {
-                  return <li>{item}</li>
+                    return <li>{item}</li>;
                   })}
                 </ul>
               </div>
@@ -82,21 +86,18 @@ class ProductPage extends React.Component {
                 <h3>More</h3>
                 <ul>
                   {this.state.project.more.map((item) => {
-                  return <li>{item}</li>
+                    return <li>{item}</li>;
                   })}
                 </ul>
               </div>
             </div>
           </section>
         </div>
-      )
+      );
     } else {
-      return (
-        <div>NO PROJECT FOUND</div>
-      )
+      return <div>NO PROJECT FOUND</div>;
     }
   }
 }
 
-
-export default ProductPage
+export default ProductPage;
