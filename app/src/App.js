@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+
 import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
@@ -22,17 +24,17 @@ class App extends Component {
         <div className="page-container">
           <Header />
 
-          <Switch>
-            <Route exact path="/" component={Landing} />
-            <Route path="/about-me/" component={About} />
-            <Route path="/project/:id" component={ProjectPage} />
-            <Route path="/my-projects/" component={ProjectPageTech} />
-            <Route path="/articles/" component={ArticlePage} />
-            <Route path="/phd/" component={PhDPage} />
-            <Route path="/contact-me/" component={ContactPage} />
+          <Routes>
+            <Route path="/" element={<Landing />} />
+            <Route path="/about-me/" element={<About />} />
+            <Route path="/project/:id" element={<ProjectPage />} />
+            <Route path="/my-projects/" element={<ProjectPageTech />} />
+            <Route path="/articles/" element={<ArticlePage />} />
+            <Route path="/phd/" element={<PhDPage />} />
+            <Route path="/contact-me/" element={<ContactPage />} />
 
-            <Route component={PageNotFound} />
-          </Switch>
+            <Route element={<PageNotFound />} />
+          </Routes>
 
           <Footer />
         </div>
