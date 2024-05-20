@@ -1,14 +1,34 @@
-import React, { Component } from "react";
+import React, { useState, useEffect } from "react";
+import { Link, useParams } from 'react-router-dom';
+
 import "./style.css";
 
 const projectsJson = require("../../Data/projects.json");
 
-class ProductPage extends React.Component {
-  constructor(props) {
-    super(props);
 
-    this.state = {};
-  }
+const ProductPage = ({}) => {
+
+  const [project, setProduct] = useState("");
+  const { id } = useParams();
+
+  const product = products.find((p) => String(p._id) === id);
+
+// class ProductPage extends React.Component {
+//   constructor(props) {
+//     super(props);
+
+//     this.state = {};
+//   }
+
+//   let pr
+
+useEffect(() => {
+  const connection = createConnection(serverUrl, roomId);
+  connection.connect();
+  return () => {
+    connection.disconnect();
+  };
+}, [serverUrl, roomId]);
 
   componentDidMount() {
     const projectId = this.props.match.params.id;
