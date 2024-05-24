@@ -67,67 +67,36 @@ const ProductPage = () => {
       <section className="project-page-section content-padding">
         <h2>Specs</h2>
         <hr />
+
+        <div className="tech-specs-container">
+          <div className="toolbox-component">
+            <h3>Tech</h3>
+            <ul>
+              {project.techSpecs.map((item) => {
+                return <li>{item}</li>;
+              })}
+            </ul>
+          </div>
+          <div className="toolbox-component">
+            <h3>Toolbox</h3>
+            <ul>
+              {project.toolBox.map((item) => {
+                return <li>{item}</li>;
+              })}
+            </ul>
+          </div>
+          <div className="toolbox-component">
+            <h3>More</h3>
+            <ul>
+              {project.more.map((item) => {
+                return <li>{item}</li>;
+              })}
+            </ul>
+          </div>
+        </div>
       </section>
     </div>
   );
 };
 
 export default ProductPage;
-
-//       return (
-// <div className="project-page">
-//   <div className="project-page-writing content-padding">
-//     <h1>{this.state.project.title}</h1>
-//     <img className="project-image" src={"/" + this.state.project.heroImage} alt="project Image" />
-//     <p>{this.state.project.description}</p>
-//   </div>
-
-//   <div className="button-container content-padding">
-//     {demoLink}
-//     {gitLink}
-//   </div>
-
-//   <section className="project-page-section content-padding">
-//     <h2>Specs</h2>
-//     <hr />
-
-//     <div className="tech-specs-container">
-//       <div className="toolbox-component">
-//         <h3>Tech</h3>
-//         <ul>
-//           {this.state.project.techSpecs.map((item) => {
-//             return <li>{item}</li>;
-//           })}
-//         </ul>
-//       </div>
-
-//       <div className="toolbox-component">
-//         <h3>Toolbox</h3>
-{
-  /* <ul>
-  {this.state.project.toolBox.map((item) => {
-    return <li>{item}</li>;
-  })}
-</ul>; */
-}
-//       </div>
-
-//       <div className="toolbox-component">
-//         <h3>More</h3>
-//         <ul>
-//           {this.state.project.more.map((item) => {
-//             return <li>{item}</li>;
-//           })}
-// //         </ul>
-//       </div>
-//     </div>
-//   </section>
-// </div>
-// //       );
-//     } else {
-//       return <div>NO PROJECT FOUND</div>;
-//     }
-//     );
-//   };
-
-// export default ProductPage;
