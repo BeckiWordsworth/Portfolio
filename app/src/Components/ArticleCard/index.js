@@ -7,10 +7,8 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 
 export default function ArticleCard({ title, previewImage, mediumURL, previewText }) {
-  console.log(mediumURL);
-
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345, minHeight: 280 }}>
       <CardMedia sx={{ height: 190 }} image={"/" + previewImage} title="green iguana" />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
