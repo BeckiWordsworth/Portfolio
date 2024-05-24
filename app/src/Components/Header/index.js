@@ -30,6 +30,9 @@ class ProjectPage extends React.Component {
                 <a href="/articles/">Articles</a>
               </li>
               <li>
+                <a href="/talks/">Talks</a>
+              </li>
+              <li>
                 <a href="/phd/">PhD</a>
               </li>
               <li>

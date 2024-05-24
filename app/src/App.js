@@ -14,6 +14,7 @@ import ProjectPageTech from "./Components/ProjectPageTech";
 import ContactPage from "./Components/ContactPage";
 import PhDPage from "./Components/Phd";
 import ArticlePage from "./Components/Articles";
+import TalksPage from "./Components/Articles";
 
 const projectsJson = require("./Data/projects.json");
 
@@ -30,6 +31,7 @@ class App extends Component {
             <Route path="/project/:id" element={<ProjectPage />} />
             <Route path="/my-projects/" element={<ProjectPageTech />} />
             <Route path="/articles/" element={<ArticlePage />} />
+            <Route path="/talks/" element={<TalksPage />} />
             <Route path="/phd/" element={<PhDPage />} />
             <Route path="/contact-me/" element={<ContactPage />} />
 
