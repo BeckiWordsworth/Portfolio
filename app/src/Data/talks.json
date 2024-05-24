@@ -1,0 +1,22 @@
+{
+  "talks": [
+    {
+      "id": 1,
+      "type": "talk",
+      "title": "Transparency in Innovation - Using Explainable AI (XAI) to Navigate Challenges in Drug Development",
+      "conference": "Women in Data Science Sweden - Stockholm - March 2024",
+      "previewImage": "WiDSMarch2024.jpeg",
+      "date": "March 2024",
+      "previewText": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!"
+    },
+    {
+      "id": 2,
+      "type": "talk",
+      "title": "Cracking the Code: Navigating the First Week as a Junior Developer",
+      "previewImage": "junior.png",
+      "date": "October 2023",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/cracking-the-code-navigating-the-first-week-as-a-junior-developer-demystifying-expectations-and-c6cb3a4d776a",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    }
+  ]
+}
