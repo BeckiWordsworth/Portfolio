@@ -9,7 +9,6 @@ class Skills extends React.Component {
           <h3>Coding</h3>
           <ul>
             <li>HTML/CSS</li>
-            <li>SASS</li>
             <li>Javascript/Typescript</li>
             <li>React</li>
             <li>Redux</li>
@@ -17,6 +16,8 @@ class Skills extends React.Component {
             <li>Next.js</li>
             <li>Node</li>
             <li>Express.js</li>
+            <li>PHP</li>
+            <li>MariaDB</li>
             <li>MongoDB</li>
             <li>Docker</li>
             <li>Kubernetes</li>
