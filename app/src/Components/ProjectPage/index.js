@@ -10,8 +10,6 @@ const ProductPage = () => {
   const { id } = useParams();
 
   useEffect(() => {
-    console.log(projectsJson);
-
     const newProject = projectsJson.projects.find((proj) => {
       return proj.id == id;
     });
@@ -48,7 +46,7 @@ const ProductPage = () => {
     <div className="project-page">
       <div className="project-page-writing content-padding">
         <h1>{project.title}</h1>
-        <img className="project-image" src={"/" + project.heroImage} alt="project Image" />
+        <img className="project-image" src={"/" + project.heroImage} alt={project.title} />
         <p>{project.description}</p>
       </div>
 
