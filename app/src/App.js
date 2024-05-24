@@ -14,7 +14,7 @@ import ProjectPageTech from "./Components/ProjectPageTech";
 import ContactPage from "./Components/ContactPage";
 import PhDPage from "./Components/Phd";
 import ArticlePage from "./Components/Articles";
-import TalksPage from "./Components/Articles";
+import TalksPage from "./Components/TalksPage";
 
 const projectsJson = require("./Data/projects.json");
 
