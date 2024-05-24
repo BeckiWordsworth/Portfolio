@@ -9,10 +9,6 @@ const ProductPage = () => {
   const [project, setProject] = useState("");
   const { id } = useParams();
 
-  console.log(projectsJson);
-
-  console.log(id);
-
   useEffect(() => {
     console.log(projectsJson);
 
@@ -20,11 +16,8 @@ const ProductPage = () => {
       return proj.id == id;
     });
 
-    console.log({ newProject });
     setProject(newProject);
   }, []);
-
-  console.log({ project });
 
   if (!project) {
     return <div>Loading...</div>;
