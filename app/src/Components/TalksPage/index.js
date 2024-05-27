@@ -11,17 +11,9 @@ const TalksPage = () => {
         <h2>Selected Talks and Workshops</h2>
         <hr />
 
-        <div className="project-container content-padding">
+        <div>
           {talksJson.talks.map((talk) => {
-            return (
-              <ListCard
-                id={talk.id}
-                title={talk.title}
-                conference={talk.conference}
-                date={talk.date}
-                previewImage={talk.previewImage}
-              />
-            );
+            return <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} />;
           })}
         </div>
       </section>
