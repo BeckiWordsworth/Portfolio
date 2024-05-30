@@ -1,28 +1,31 @@
 import * as React from "react";
-import List from "@mui/material/List";
-import ListItem from "@mui/material/ListItem";
-import Divider from "@mui/material/Divider";
-import ListItemText from "@mui/material/ListItemText";
-import ListItemAvatar from "@mui/material/ListItemAvatar";
-import Avatar from "@mui/material/Avatar";
+import Card from "@mui/material/Card";
+import CardActions from "@mui/material/CardActions";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
+import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 
-export default function ListCard({ previewImage, title }) {
+export default function ListCard({ title, conference }) {
   return (
-    <div className="radio-box" style={{}}>
-      <div className="radio-image">
-        <img src={previewImage} alt="bild" />
-      </div>
-      <div className="container">
-        <div className="radio-name">
-          <span>{title}</span>
-        </div>
-        <div className="audio-control">
-          {/* <audio controls>
-            <source src={url} type="audio/mpeg" />
-          </audio> */}
-        </div>
-      </div>
-    </div>
+    <Card sx={{ maxWidth: 345 }}>
+      <CardMedia sx={{ height: 140 }} image="/static/images/cards/contemplative-reptile.jpg" title="green iguana" />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+          {conference}
+        </Typography>
+        <Typography gutterBottom variant="h6" component="div">
+          {title}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents
+          except Antarctica
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button size="small">Share</Button>
+        <Button size="small">Learn More</Button>
+      </CardActions>
+    </Card>
   );
 }

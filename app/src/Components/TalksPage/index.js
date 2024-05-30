@@ -13,7 +13,9 @@ const TalksPage = () => {
 
         <div>
           {talksJson.talks.map((talk) => {
-            return <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} />;
+            return (
+              <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} conference={talk.conference} />
+            );
           })}
         </div>
       </section>
