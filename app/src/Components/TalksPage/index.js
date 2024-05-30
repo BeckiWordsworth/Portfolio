@@ -8,15 +8,19 @@ const TalksPage = () => {
   return (
     <div className="TechPageContainer">
       <section className="landing-section my-projects">
-        <h2>Selected Talks and Workshops</h2>
+        <h2>Selected Talks</h2>
         <hr />
-
         <div>
           {talksJson.talks.map((talk) => {
             return (
               <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} conference={talk.conference} />
             );
           })}
+        </div>
+        <div className="button-container-tech">
+          <a href="https://medium.com/@becki.wordsworth" target="_blank" className="button-tech">
+            Visit Medium
+          </a>
         </div>
       </section>
     </div>
