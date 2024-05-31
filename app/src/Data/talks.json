@@ -43,7 +43,7 @@
     },
     {
       "id": 4,
-      "type": "other",
+      "type": "event",
       "title": "Internal Hackathon",
       "previewImage": "technigo.jpeg",
       "conference": "Flightradar24",
@@ -53,7 +53,7 @@
     },
     {
       "id": 5,
-      "type": "other",
+      "type": "event",
       "title": "Openhack Hackathon",
       "previewImage": "technigo.jpeg",
       "conference": "Participant coordinator",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "type": "other",
+      "type": "event",
       "title": "Sthlm.js Meetup group",
       "previewImage": "technigo.jpeg",
       "conference": "Organiser",

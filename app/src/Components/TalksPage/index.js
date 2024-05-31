@@ -8,7 +8,7 @@ const TalksPage = () => {
   return (
     <div className="TechPageContainer">
       <section className="landing-section my-projects">
-        <h2>Selected!! Talks</h2>
+        <h2>Selected Talks</h2>
         <hr />
         <div className="project-container content-padding">
           {talksJson.talks.map((talk) => {
@@ -62,7 +62,7 @@ const TalksPage = () => {
         <hr />
         <div className="project-container content-padding">
           {talksJson.talks.map((talk) => {
-            if (talk.type === "other") {
+            if (talk.type === "event") {
               return (
                 <ListCard
                   id={talk.id}
