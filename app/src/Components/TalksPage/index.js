@@ -12,9 +12,68 @@ const TalksPage = () => {
         <hr />
         <div className="project-container content-padding">
           {talksJson.talks.map((talk) => {
-            return (
-              <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} conference={talk.conference} />
-            );
+            if (talk.type === "talk") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
+          })}
+        </div>
+        <div className="button-container-tech">
+          <a href="https://medium.com/@becki.wordsworth" target="_blank" className="button-tech">
+            Visit Medium
+          </a>
+        </div>
+      </section>
+      <section className="landing-section my-projects">
+        <h2>Selected Webinars</h2>
+        <hr />
+        <div className="project-container content-padding">
+          {talksJson.talks.map((talk) => {
+            if (talk.type === "webinar") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
+          })}
+        </div>
+        <div className="button-container-tech">
+          <a href="https://medium.com/@becki.wordsworth" target="_blank" className="button-tech">
+            Visit Medium
+          </a>
+        </div>
+      </section>
+      <section className="landing-section my-projects">
+        <h2>Other Events</h2>
+        <hr />
+        <div className="project-container content-padding">
+          {talksJson.talks.map((talk) => {
+            if (talk.type === "other") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
           })}
         </div>
         <div className="button-container-tech">

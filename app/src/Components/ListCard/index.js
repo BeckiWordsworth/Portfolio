@@ -4,7 +4,7 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 
-export default function ArticleCard({ title, previewImage, conference, previewText }) {
+export default function ArticleCard({ title, previewImage, conference, previewText, city, date }) {
   return (
     <Card sx={{ maxWidth: 345, minHeight: 280 }}>
       <CardMedia sx={{ height: 190 }} image={"/" + previewImage} title="green iguana" />
@@ -14,6 +14,12 @@ export default function ArticleCard({ title, previewImage, conference, previewTe
         </Typography>
         <Typography variant="body2" color="text.secondary">
           {conference}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {city}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {date}
         </Typography>
       </CardContent>
     </Card>

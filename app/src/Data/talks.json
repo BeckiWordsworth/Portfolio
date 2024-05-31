@@ -4,26 +4,71 @@
       "id": 1,
       "type": "talk",
       "title": "Transparency in Innovation - Using Explainable AI (XAI) to Navigate Challenges in Drug Development",
-      "conference": "Women in Data Science Sweden - Stockholm - March 2024",
+      "conference": "Women in Data Science Conference",
       "previewImage": "WiDSMarch2024.jpeg",
+      "city": "Stockholm, Sweden",
       "date": "March 2024",
-      "previewText": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!"
+      "previewText": ""
     },
     {
       "id": 2,
       "type": "talk",
-      "title": "The Ethics of Generative AI",
-      "previewImage": "junior.png",
+      "title": "Generative AI - The Genie in the bottle",
+      "previewImage": "regatta2023.jpeg",
+      "conference": "Women in Tech regatta",
+      "city": "Stockholm, Sweden",
       "date": "October 2023",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "previewText": "Discussing the ethics of generative AI."
     },
     {
       "id": 3,
-      "type": "talk",
-      "title": "How to build an attractive Linkedin profile",
-      "previewImage": "junior.png",
-      "date": "October 2023",
-      "mediumUrl": "https://medium.com/@becki.wordsworth/cracking-the-code-navigating-the-first-week-as-a-junior-developer-demystifying-expectations-and-c6cb3a4d776a",
+      "type": "webinar",
+      "title": "Unlock your Linkedin potential: Tips and tricks to attract more recruiters",
+      "previewImage": "technigo.jpeg",
+      "conference": "Technigo",
+      "city": "Remote",
+      "date": "May 2024",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    }
+    ,
+    {
+      "id": 3,
+      "type": "webinar",
+      "title": "Roundtable - Perfection vs Pragmatism",
+      "previewImage": "technigo.jpeg",
+      "conference": "The Live Sessions",
+      "city": "Remote",
+      "date": "May 2024",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 4,
+      "type": "other",
+      "title": "Internal Hackathon",
+      "previewImage": "technigo.jpeg",
+      "conference": "Flightradar24",
+      "city": "Stockholm",
+      "date": "May 2024",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 5,
+      "type": "other",
+      "title": "Openhack Hackathon",
+      "previewImage": "technigo.jpeg",
+      "conference": "Participant coordinator",
+      "city": "Stockholm",
+      "date": "Dec 2019",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 6,
+      "type": "other",
+      "title": "Sthlm.js Meetup group",
+      "previewImage": "technigo.jpeg",
+      "conference": "Organiser",
+      "city": "Stockholm",
+      "date": "Jan 2019 - present",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     }
   ]
