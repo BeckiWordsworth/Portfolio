@@ -8,9 +8,9 @@ const TalksPage = () => {
   return (
     <div className="TechPageContainer">
       <section className="landing-section my-projects">
-        <h2>Selected Talks</h2>
+        <h2>Selected!! Talks</h2>
         <hr />
-        <div>
+        <div className="project-container content-padding">
           {talksJson.talks.map((talk) => {
             return (
               <ListCard id={talk.id} title={talk.title} previewImage={talk.previewImage} conference={talk.conference} />
