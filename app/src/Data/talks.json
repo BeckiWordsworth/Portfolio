@@ -45,7 +45,7 @@
       "id": 4,
       "type": "event",
       "title": "Internal Hackathon",
-      "previewImage": "technigo.jpeg",
+      "previewImage": "hackathonfr24.png",
       "conference": "Flightradar24",
       "city": "Stockholm",
       "date": "May 2024",
@@ -54,15 +54,25 @@
     {
       "id": 5,
       "type": "event",
-      "title": "Openhack Hackathon",
+      "title": "Sthlm.js Meetup group",
       "previewImage": "technigo.jpeg",
-      "conference": "Participant coordinator",
+      "conference": "Organiser",
       "city": "Stockholm",
-      "date": "Dec 2019",
+      "date": "Jan 2019 - present",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
       "id": 6,
+      "type": "event",
+      "title": "Openhack Hackathon",
+      "previewImage": "openhack.jpeg",
+      "conference": "Participant coordinator",
+      "city": "Stockholm",
+      "date": "Nov 2018 & Dec 2019",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 7,
       "type": "event",
       "title": "Sthlm.js Meetup group",
       "previewImage": "technigo.jpeg",

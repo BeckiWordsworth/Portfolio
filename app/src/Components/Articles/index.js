@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import Grid from "@mui/material/Grid";
 import ArticleCard from "../ArticleCard";
 
 const articlesJson = require("../../Data/articles.json");
