@@ -15,7 +15,7 @@
       "type": "talk",
       "title": "Generative AI - The Genie in the bottle",
       "previewImage": "regatta2023.jpeg",
-      "conference": "Women in Tech regatta",
+      "conference": "Women in Tech Regatta Conference",
       "city": "Stockholm, Sweden",
       "date": "October 2023",
       "previewText": "Discussing the ethics of generative AI."
@@ -24,10 +24,10 @@
       "id": 3,
       "type": "webinar",
       "title": "Unlock your Linkedin potential: Tips and tricks to attract more recruiters",
-      "previewImage": "technigo.jpeg",
+      "previewImage": "technigolinkedin.JPEG",
       "conference": "Technigo",
-      "city": "Remote",
-      "date": "May 2024",
+      "city": "Multiple workshops remote/in person",
+      "date": "Latest May 2024",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     }
     ,
@@ -35,7 +35,7 @@
       "id": 3,
       "type": "webinar",
       "title": "Roundtable - Perfection vs Pragmatism",
-      "previewImage": "technigo.jpeg",
+      "previewImage": "roundtable.png",
       "conference": "The Live Sessions",
       "city": "Remote",
       "date": "May 2024",
@@ -44,11 +44,11 @@
     {
       "id": 4,
       "type": "event",
-      "title": "Internal Hackathon",
+      "title": "Internal Hackathons",
       "previewImage": "hackathonfr24.png",
-      "conference": "Flightradar24",
+      "conference": "Flightradar24 and Hiotlabs",
       "city": "Stockholm",
-      "date": "May 2024",
+      "date": "Nov 2022 & May 2024",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
