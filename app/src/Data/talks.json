@@ -13,7 +13,7 @@
     {
       "id": 2,
       "type": "talk",
-      "title": "Generative AI - The Genie in the bottle",
+      "title": "The Ethics of Generative AI",
       "previewImage": "regatta2023.jpeg",
       "conference": "Women in Tech Regatta Conference",
       "city": "Stockholm, Sweden",
@@ -32,7 +32,7 @@
     }
     ,
     {
-      "id": 3,
+      "id": 4,
       "type": "webinar",
       "title": "Roundtable - Perfection vs Pragmatism",
       "previewImage": "roundtable.png",
@@ -42,7 +42,7 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 4,
+      "id": 5,
       "type": "event",
       "title": "Internal Hackathons",
       "previewImage": "hackathonfr24.png",
@@ -52,17 +52,17 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "event",
       "title": "Sthlm.js Meetup group",
-      "previewImage": "technigo.jpeg",
+      "previewImage": "sthlm.jpeg",
       "conference": "Organiser",
       "city": "Stockholm",
       "date": "Jan 2019 - present",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 6,
+      "id": 7,
       "type": "event",
       "title": "Openhack Hackathon",
       "previewImage": "openhack.jpeg",
@@ -72,13 +72,33 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 7,
-      "type": "event",
-      "title": "Sthlm.js Meetup group",
-      "previewImage": "technigo.jpeg",
-      "conference": "Organiser",
+      "id": 8,
+      "type": "webinar",
+      "title": "Evolution Exchange",
+      "previewImage": "evo.png",
+      "conference": "Evo Inspires Series",
+      "city": "Remote",
+      "date": "Jan 2024",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 9,
+      "type": "conference",
+      "title": "Co Storm Mentor",
+      "previewImage": "costorm.JPEG",
+      "conference": "Co-storm: Women in Tech Regatta",
       "city": "Stockholm",
-      "date": "Jan 2019 - present",
+      "date": "Sept 2022 & Oct 2023",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+    {
+      "id": 10,
+      "type": "conference",
+      "title": "Intro to everything - building your first webpage",
+      "previewImage": "everything.jpg",
+      "conference": "Code Excursion",
+      "city": "Stockholm",
+      "date": "Sept 2019",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     }
   ]

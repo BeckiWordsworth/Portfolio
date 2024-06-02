@@ -8,7 +8,7 @@ const TalksPage = () => {
   return (
     <div className="TechPageContainer">
       <section className="landing-section my-projects">
-        <h2>Selected Talks &amp; Webinars</h2>
+        <h2>Selected Talks &amp; Events</h2>
         <hr />
         <div className="talks-container content-padding">
           {talksJson.talks.map((talk) => {
@@ -25,13 +25,13 @@ const TalksPage = () => {
           })}
         </div>
       </section>
-      <section>
+      {/* <section>
         <div className="button-container-tech">
           <a href="https://medium.com/@becki.wordsworth" target="_blank" className="button-tech">
             Visit Medium
           </a>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };
