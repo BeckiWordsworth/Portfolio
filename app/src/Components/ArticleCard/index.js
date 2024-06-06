@@ -7,7 +7,7 @@ import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 
-export default function ArticleCard({ title, previewImage, mediumURL, previewText }) {
+const ArticleCard = ({ title, previewImage, mediumURL, previewText }) => {
   return (
     <Card className="stretched-mui-card" sx={{ maxWidth: 345, minHeight: 280 }}>
       <div>
@@ -28,4 +28,6 @@ export default function ArticleCard({ title, previewImage, mediumURL, previewTex
       </CardActions>
     </Card>
   );
-}
+};
+
+export default ArticleCard;
