@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { BrowserRouter as Router, Link } from "react-router-dom";
+import React from "react";
+import { BrowserRouter as Router } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
 
 import "./App.css";
@@ -18,31 +18,29 @@ import TalksPage from "./Components/TalksPage";
 
 const projectsJson = require("./Data/projects.json");
 
-class App extends Component {
-  render() {
-    return (
-      <Router>
-        <div className="page-container">
-          <Header />
+const App = () => {
+  return (
+    <Router>
+      <div className="page-container">
+        <Header />
 
-          <Routes>
-            <Route path="/" element={<Landing />} />
-            <Route path="/about-me/" element={<About />} />
-            <Route path="/project/:id" element={<ProjectPage />} />
-            <Route path="/my-projects/" element={<ProjectPageTech />} />
-            <Route path="/articles/" element={<ArticlePage />} />
-            <Route path="/talks/" element={<TalksPage />} />
-            <Route path="/phd/" element={<PhDPage />} />
-            <Route path="/contact-me/" element={<ContactPage />} />
+        <Routes>
+          <Route path="/" element={<Landing />} />
+          <Route path="/about-me/" element={<About />} />
+          <Route path="/project/:id" element={<ProjectPage />} />
+          <Route path="/my-projects/" element={<ProjectPageTech />} />
+          <Route path="/articles/" element={<ArticlePage />} />
+          <Route path="/talks/" element={<TalksPage />} />
+          <Route path="/phd/" element={<PhDPage />} />
+          <Route path="/contact-me/" element={<ContactPage />} />
 
-            <Route element={<PageNotFound />} />
-          </Routes>
+          <Route element={<PageNotFound />} />
+        </Routes>
 
-          <Footer />
-        </div>
-      </Router>
-    );
-  }
-}
+        <Footer />
+      </div>
+    </Router>
+  );
+};
 
 export default App;
