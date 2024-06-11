@@ -26,7 +26,12 @@ const ArticlePage = () => {
         </div>
 
         <div className="button-container-tech">
-          <a href="https://medium.com/@becki.wordsworth" target="_blank" className="button-tech">
+          <a
+            href="https://medium.com/@becki.wordsworth"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button-tech"
+          >
             Visit Medium
           </a>
         </div>

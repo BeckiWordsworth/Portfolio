@@ -60,7 +60,7 @@ const PhDPage = () => {
         <strong>
           {" "}
           If you want to read my thesis,
-          <a href="https://www.dropbox.com/s/jbu4bvurs8ffal5/thesis.pdf?dl=0" target="_blank">
+          <a href="https://www.dropbox.com/s/jbu4bvurs8ffal5/thesis.pdf?dl=0" target="_blank" rel="noopener noreferrer">
             click here
           </a>{" "}
         </strong>
