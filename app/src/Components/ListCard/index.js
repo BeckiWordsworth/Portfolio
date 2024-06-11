@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Box, Card, CardMedia, Typography } from "@mui/material";
 
-const ArticleCard = ({ title, previewImage, conference, previewText, city, date }) => {
+const ArticleCard = ({ title, previewImage, conference, city, date }) => {
   return (
     <Card sx={{ minHeight: 100, display: "grid", gridTemplateColumns: "120px 1fr" }}>
       <CardMedia sx={{ width: 120 }} image={"/" + previewImage} title="green iguana" />
