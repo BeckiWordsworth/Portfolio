@@ -17,12 +17,22 @@ const Footer = () => {
         <div className="footer-last">
           <p>
             Twitter:{" "}
-            <a href="https://twitter.com/BeckiWordsworth" target="_blank" title="Becki Wordsworth on Twitter">
+            <a
+              href="https://twitter.com/BeckiWordsworth"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Becki Wordsworth on Twitter"
+            >
               @BeckiWordsworth
             </a>{" "}
             <br />
             LinkedIn:{" "}
-            <a href="https://www.linkedin.com/in/beckiwordsworth/" target="_blank" title="Becki Wordsworth on LinkedIn">
+            <a
+              href="https://www.linkedin.com/in/beckiwordsworth/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Becki Wordsworth on LinkedIn"
+            >
               /in/beckiwordsworth
             </a>
           </p>
