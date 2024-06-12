@@ -42,12 +42,12 @@ const ProjectPage = () => {
         <ul>
           <li>
             <a href="https://twitter.com/BeckiWordsworth" target="_blank" rel="noopener noreferrer">
-              <img src="/twitter-64.png" />
+              <img src="/twitter-64.png" alt="Twitter logo" />
             </a>
           </li>
           <li>
             <a href="https://www.linkedin.com/in/beckiwordsworth/" target="_blank" rel="noopener noreferrer">
-              <img src="/linkedin-64.png" />
+              <img src="/linkedin-64.png" alt="Linkedin logo" />
             </a>
           </li>
         </ul>
