@@ -38,15 +38,15 @@ const Landing = () => {
           Python, improving my knowledge and skills in the area of machine learning and AI (a long term passion of mine
           - I refer you back to my mild obsession with all things data related), and reading and writing blogs relating
           to tech, leadership, and recruitment. You can read some of them on{" "}
-          <a href="https://medium.com/@becki.wordsworth" target="_blank">
+          <a href="https://medium.com/@becki.wordsworth" target="_blank" rel="noopener noreferrer">
             Medium{" "}
           </a>{" "}
           <br /> <br />I also enjoy getting involved and giving back to the tech community. I am a co-organiser of{" "}
-          <a href="https://www.meetup.com/sthlm-js/" target="_blank">
+          <a href="https://www.meetup.com/sthlm-js/" target="_blank" rel="noopener noreferrer">
             sthlm.js
           </a>
           , a large Javascript Meetup group in Stockholm, and head of events and workshop leader for{" "}
-          <a href="https://www.code-excursion.com/" target="_blank">
+          <a href="https://www.code-excursion.com/" target="_blank" rel="noopener noreferrer">
             {" "}
             Code Excursion
           </a>
