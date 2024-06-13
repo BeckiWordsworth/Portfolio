@@ -59,12 +59,6 @@ const Landing = () => {
         </p>
       </section>
 
-      {/* <section className="landing-section content-padding">
-        <h2>Technology</h2>
-        <hr />
-        <Tech />
-      </section> */}
-
       <section className="landing-section content-padding">
         <h2>
           Selected <strong>Projects</strong>
