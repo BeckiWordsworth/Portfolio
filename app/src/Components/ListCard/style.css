@@ -1,0 +1,22 @@
+.project-previews {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  box-sizing: border-box;
+  color: black;
+  font-family: 'Roboto';
+  border-radius: 2px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 5px -3px;
+  transition-duration: 0.3s;
+  display: "grid";
+  grid-template-columns: "12px 1fr",
+
+}
+
+.project-previews:hover {
+  margin-top: -6px;
+  transition-duration: 0.2s;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 5px -2px;
+  cursor: pointer;
+}
