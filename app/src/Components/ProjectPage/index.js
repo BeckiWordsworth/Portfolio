@@ -5,7 +5,7 @@ import "./style.css";
 
 const projectsJson = require("../../Data/projects.json");
 
-const ProductPage = () => {
+const ProjectPage = () => {
   const [project, setProject] = useState("");
   const { id } = useParams();
 
@@ -90,4 +90,4 @@ const ProductPage = () => {
   );
 };
 
-export default ProductPage;
+export default ProjectPage;
