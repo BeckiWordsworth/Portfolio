@@ -1,6 +1,6 @@
 import * as React from "react";
 import "./style.css";
-import { Box, Card, CardMedia, Typography, CardActions, Button } from "@mui/material";
+import { Box, Card, CardMedia, Typography } from "@mui/material";
 
 const ArticleCard = ({ id, title, previewImage, conference, city, date }) => {
   return (
