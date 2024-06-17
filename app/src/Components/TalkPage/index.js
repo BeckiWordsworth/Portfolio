@@ -28,6 +28,25 @@ const TalkPage = () => {
         <img className="project-image" src={"/" + talk.previewImage} alt={talk.title} />
         <p>{talk.description}</p>
       </div>
+      <section className="project-page-section content-padding">
+        <h2>Details</h2>
+        <hr />
+
+        <div className="tech-specs-container">
+          <div className="toolbox-component">
+            <ul>Event Type</ul>
+            <ul>Name</ul>
+            <ul>City</ul>
+            <ul>Date</ul>
+          </div>
+          <div className="toolbox-component">
+            <ul>{talk.type.charAt(0).toUpperCase() + talk.type.slice(1)}</ul>
+            <ul>{talk.conference}</ul>
+            <ul>{talk.city}</ul>
+            <ul>{talk.date}</ul>
+          </div>
+        </div>
+      </section>
     </div>
   );
 };
