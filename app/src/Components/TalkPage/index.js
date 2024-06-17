@@ -26,15 +26,26 @@ const TalkPage = () => {
       <div className="project-page-writing content-padding">
         <h1>{talk.title}</h1>
         <img className="project-image" src={"/" + talk.previewImage} alt={talk.title} />
-        <p>{talk.description}</p>
       </div>
+
+      <section className="project-page-section content-padding">
+        <h2>Overview</h2>
+        <hr />
+
+        <div className="tech-specs-container">
+          <p>{talk.description}</p>
+        </div>
+      </section>
+
       <section className="project-page-section content-padding">
         <h2>Details</h2>
         <hr />
 
         <div className="tech-specs-container">
           <div className="toolbox-component">
-            <ul>Event Type</ul>
+            <ul>
+              <b>Event Type</b>
+            </ul>
             <ul>Name</ul>
             <ul>City</ul>
             <ul>Date</ul>
