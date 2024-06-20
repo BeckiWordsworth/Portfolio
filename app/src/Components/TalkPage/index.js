@@ -32,7 +32,7 @@ const TalkPage = () => {
         <h2>Overview</h2>
         <hr />
 
-        <div className="tech-specs-container">
+        <div className="tech-specs-box">
           <p>{talk.description}</p>
         </div>
       </section>
