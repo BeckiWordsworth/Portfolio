@@ -1,10 +1,10 @@
-.project-page{
+.talk-page{
   margin: 60px auto 0px 0px;
   max-width: 1200px;
-  background-color: white;}
+  background-color: white;
+}
 
-
-.project-image {
+.talk-image {
 text-align: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -23,59 +23,45 @@ z-index: 2;
 padding: 0px;
 }
 
-.tech-specs-container {
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-grid-column-gap: 10px;
-grid-row-gap: 10px;
+.talk-specs-box {
 padding-top: 10px;
 padding-left: 10px;
 }
 
-.tech-specs-box {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  padding-top: 10px;
-  padding-left: 10px;
-  }
-
-
 
 @media only screen and (max-width: 880px) and (min-width: 600px) {
-.tech-specs-container {
+.talk-specs-container {
   grid-template-columns: 1fr 1fr;
 }
 }
 
 @media only screen and (max-width: 600px) {
-.tech-specs-container {
+.talk-specs-container {
   grid-template-columns: 1fr;
 }
 }
 
-.tech-specs-container div {
+.talk-specs-container div {
 border: solid 1px #ddd;
 background-color: #ffffff;
 padding: 10px;
 }
 
-.tech-specs-container h3 {
+.talk-specs-container h3 {
 text-align: center;
 padding: 0px;
 margin: 0px;
 margin-top: 10px;
 }
 
-.tech-specs-container ul {
+.talk-specs-container ul {
 list-style-type: none;
 margin: 0px;
 padding: 0px;
 margin-top: 10px;
 }
 
-.tech-specs-container ul li {
+.talk-specs-container ul li {
 display: block;
 padding: 4px;
 }
@@ -109,16 +95,16 @@ background: rgb(203, 97, 10);
 }
 
 
-.project-page section {
+.talk-page section {
 padding-top: 20px;
 padding-bottom: 20px;
 }
 
-.project-page section:nth-child(odd) {
+.talk-page section:nth-child(odd) {
 background-color: #f5f5f5;
 }
 
-.project-page section h2 {
+.talk-page section h2 {
 text-align: center;
 font-weight: normal;
 font-size: 1.8em;
@@ -126,17 +112,11 @@ margin-top: 20px;
 margin-bottom: 15px;
 }
 
-.project-page-writing {
-text-align: justify;;
+.talk-page-writing {
+text-align: justify;
 }
 
-.project-page-writing h1 {
-padding-top: 24px;
-padding-bottom: 4px;
-font-weight: normal;
-}
-
-.project-page-section hr {
+.talk-page-section hr {
 width: 100px;
 color: #ffb800;
 background-color: #ffb800;

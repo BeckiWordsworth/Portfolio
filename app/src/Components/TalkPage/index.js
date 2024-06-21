@@ -42,19 +42,26 @@ const TalkPage = () => {
         <hr />
 
         <div className="talk-specs-container">
-          <div className="toolbox-component">
-            <ul>
-              <b>Event Type</b>
-            </ul>
-            <ul>Name</ul>
-            <ul>City</ul>
-            <ul>Date</ul>
-          </div>
-          <div className="toolbox-component">
-            <ul>{talk.type.charAt(0).toUpperCase() + talk.type.slice(1)}</ul>
-            <ul>{talk.conference}</ul>
-            <ul>{talk.city}</ul>
-            <ul>{talk.date}</ul>
+          <div className="toolbox-component" style={{ display: "grid", gridTemplateColumns: "150px 1fr" }}>
+            <div>
+              <strong>Event Type</strong>
+            </div>
+            <div>{talk.type.charAt(0).toUpperCase() + talk.type.slice(1)}</div>
+
+            <div>
+              <strong>Event Name</strong>
+            </div>
+            <div>{talk.conference}</div>
+
+            <div>
+              <strong>City</strong>
+            </div>
+            <div>{talk.city}</div>
+
+            <div>
+              <strong>Date</strong>
+            </div>
+            <div>{talk.date}</div>
           </div>
         </div>
       </section>
