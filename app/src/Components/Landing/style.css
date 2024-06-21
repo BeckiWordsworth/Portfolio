@@ -10,12 +10,13 @@
 
 .landing-hero-image h1 {
   position: absolute;
-  top: 180px;
+  top: 160px;
   right: 60px;
   color: white;
   text-shadow: 1px 1px 0px black;
   font-weight: normal;
   font-size: 2.2em;
+  line-height: 1.0;
 }
 
 .landing-hero-image .tagline {
@@ -35,9 +36,10 @@
   body .landing-hero-image h1 {
     width: 100%;
     right: 0px;
-    top: 240px;
+    top: 220px;
     text-align: center;
     font-size: 2.0em;
+    line-height: 1.0;
   }
 
   body .landing-hero-image .tagline {
