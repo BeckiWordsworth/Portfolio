@@ -33,6 +33,10 @@ padding-left: 10px;
 }
 
 .tech-specs-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
   padding-top: 10px;
   padding-left: 10px;
   }
