@@ -2,18 +2,18 @@
   "talks": [
     {
       "id": 1,
-      "type": "talk",
+      "type": "conference",
       "title": "Transparency in Innovation - Using Explainable AI (XAI) to Navigate Challenges in Drug Development",
       "conference": "Women in Data Science Conference",
       "previewImage": "WiDSMarch2024.jpeg",
       "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
       "city": "Stockholm, Sweden",
       "date": "March 2024",
-      "previewText": ""
+      "previewText": "Discussing the use of Explainable AI in Drug Development"
     },
     {
       "id": 2,
-      "type": "talk",
+      "type": "conference",
       "title": "The Ethics of Generative AI",
       "previewImage": "regatta2023.jpeg",
       "conference": "Women in Tech Regatta Conference",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "type": "webinar",
+      "type": "talk",
       "title": "Unlock your Linkedin potential: Tips and tricks to attract more recruiters",
       "previewImage": "technigolinkedin.JPEG",
       "conference": "Technigo",
