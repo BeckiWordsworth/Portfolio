@@ -21,6 +21,18 @@ const TalkPage = () => {
     return <div>Loading...</div>;
   }
 
+  let externalLink = "";
+
+  if (talk) {
+    if (talk.externalLink) {
+      externalLink = (
+        <a href={talk.externalLink} className="button">
+          See it Live
+        </a>
+      );
+    }
+  }
+
   return (
     <div className="talk-page">
       <div className="talk-page-writing content-padding">
@@ -35,6 +47,8 @@ const TalkPage = () => {
         <div className="talk-specs-box">
           <p>{talk.description}</p>
         </div>
+
+        <div className="button-container content-padding">{externalLink}</div>
       </section>
 
       <section className="talk-page-section content-padding">

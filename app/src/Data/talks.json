@@ -6,7 +6,7 @@
       "title": "Transparency in Innovation - Using Explainable AI (XAI) to Navigate Challenges in Drug Development",
       "conference": "Women in Data Science Conference",
       "previewImage": "WiDSMarch2024.jpeg",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
+      "description" : "Abstract for the conference talk: On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
       "city": "Stockholm, Sweden",
       "date": "March 2024",
       "previewText": "Discussing the use of Explainable AI in Drug Development"
@@ -19,7 +19,7 @@
       "conference": "Women in Tech Regatta Conference",
       "city": "Stockholm, Sweden",
       "date": "October 2023",
-      "description" : "This talk delves into the ethical considerations surrounding generative AI exploring the profound implications of generative AI on society, individual rights, and ethical standards.",
+      "description" : "Abstract for the conference talk: This talk delves into the ethical considerations surrounding generative AI exploring the profound implications of generative AI on society, individual rights, and ethical standards.",
       "previewText": "Discussing the ethics of generative AI."
     },
     {
@@ -30,8 +30,8 @@
       "conference": "Technigo",
       "city": "Multiple workshops remote/in person",
       "date": "Latest May 2024",
-      "description" : "Are you curious about what to highlight on your profile as a career changer, are new in the industry or just looking for some handy insider tips. This session will give you direct insights into a tech recruiter's mind",
-      "previewText": "What to highlight on your profile as a career changer, starting in a new industry or just looking for some handy insider tips from a tech hiring manager and previous Tech recruter.",
+      "description" : "Interactive webinar for Technigo, a coding bootcamp, fosuccing on providing handy tips and highlighting what you need to add to your Linkedin profile to get noticed as a career changer, someone who is new in the industry, or just curious. This session gave direct insights into a tech recruiter/ tech hiring manager's mind when looking at profiles",
+      "previewText": "Interactive webinar giving advice on what to highlight on your profile as a career changer",
       "link": "https://www.technigo.io/events/insights-from-a-tech-recruiter"
 
     }
@@ -44,9 +44,9 @@
       "conference": "The Live Sessions",
       "city": "Remote",
       "date": "May 2024",
-      "description" : "Roundtable discussion as part of the The Live Series on the subject of Perfection vs Pragmatism in software development and is there a right or wrong choice 💡 ",
-      "previewText": "As a software engineer, you will always find that some people want to perfect their craft, whilst others prioritize speed of delivery. So what makes people choose one or the other? Is there a right or wrong choice? In this episode, the panel discussed how they would describe themselves, has their approach changed since becoming a leader and if so, how?, and what would make them change their approach, among other things",
-      "link": "https://www.youtube.com/watch?v=Pp5Tm06nzAQ"
+      "previewText" : "Roundtable discussion as part of the The Live Series on the subject of Perfection vs Pragmatism in software development and is there a right or wrong choice 💡 ",
+      "description": "As a software engineer, you will always find that some people want to perfect their craft, whilst others prioritize speed of delivery. So what makes people choose one or the other? Is there a right or wrong choice? In this episode, the panel discussed how they would describe themselves, has their approach changed since becoming a leader and if so, how?, and what would make them change their approach, among other things",
+      "externalLink": "https://www.youtube.com/watch?v=Pp5Tm06nzAQ"
 
     },
     {
@@ -79,21 +79,22 @@
       "conference": "Flightradar24 and Hiotlabs",
       "city": "Stockholm",
       "date": "Nov 2022 & May 2024",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "description" : "Organising and running internal hackathons at the companies I work at for improved internal collaboration and team building. These were cross functional hackathons with buisness, product, and engineering being invilved.",
+      "previewText": "Organised and ran internal hackathons for the companies I worked for"
     },
 
 
     {
       "id": 9,
-      "type": "webinar",
+      "type": "talk",
       "title": "Evolution Exchange",
       "previewImage": "evo.png",
       "conference": "Evo Inspires Series",
       "city": "Remote",
       "date": "Jan 2024",
       "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ...",
+      "externalLink" : "https://evolutionjobs.com/exchange/evo-inspires-becki-wordsworth-cto-vivologica/"
     },
     {
       "id": 10,
@@ -103,8 +104,8 @@
       "conference": "Co-storm: Women in Tech Regatta",
       "city": "Stockholm",
       "date": "Sept 2022 & Oct 2023",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "description" : "The concept behind CO-STORM™ is about how much more we’re able to see (brainstorm) for each other than we see for ourselves. During these sessions, each participant had time for an introduction and a chance to discuss their most pressing pain point, project or idea in a safe and empowering environment. Mentors are assigned to a small group to brainstorm and help move ideas forward by asking questions, making suggestions, and offering advice.",
+      "previewText": "CO-STORM™ Mentors are assigned to a small group to help participants brainstorm and move ideas forward by asking questions, making suggestions, and offering advice."
     },
     {
       "id": 11,
@@ -114,8 +115,30 @@
       "conference": "Code Excursion",
       "city": "Stockholm",
       "date": "Sept 2019",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "description" : "Ran a workshop to introduce the concept of web development and start building a web page with HTML and CSS to beginners. The event started with an overview of web development, technologies, and career paths, and then began the hands on part where we built our first web pages together.",
+      "previewText": "Workshop to introduce the concept of web development and start building a web page with HTML and CSS"
+    },
+    {
+      "id": 12,
+      "type": "mentor",
+      "title": "Code and Career Mentor for junior developers coming into tech",
+      "previewImage": "mentoring.jpg",
+      "conference": "Individual mentoring",
+      "city": "Stockholm",
+      "date": "May 2019 - present",
+      "description" : "Individual mentoring for new or junior developers first coming into the industry. Mix of code and career mentoring. Regular sessions over 3-6 months with support between sessions if needed",
+      "previewText": "Mentoring for a number of people over the last few years"
+    },
+    {
+      "id": 13,
+      "type": "event",
+      "title": "Code Excursion Stockholm",
+      "previewImage": "codeexcursion.jpg",
+      "conference": "Co-Organiser and Head of Events",
+      "city": "Stockholm",
+      "date": "Jan 2019 - May 2023",
+      "description" : "Code Excursion is a female coding school. It is a non-profit organisation for women to learn programming in a helpful, passionate and including way. Learn how to build websites, get into data science or touch on creative coding.",
+      "previewText": "Code Excursion is a female coding school running workshops for women to learn programming."
     }
   ]
 }
