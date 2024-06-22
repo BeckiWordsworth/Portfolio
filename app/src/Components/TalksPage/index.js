@@ -29,7 +29,7 @@ const TalksPage = () => {
       </section>
 
       <section className="landing-section my-projects">
-        <h2>Talks and Workshops</h2>
+        <h2>Selected Talks and Workshops</h2>
         <hr />
         <div className="talks-container content-padding">
           {talksJson.talks.map((talk) => {
