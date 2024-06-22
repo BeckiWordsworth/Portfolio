@@ -31,6 +31,10 @@ const Landing = () => {
           After research, I spent 3 years as a technical recruiter, growing tech teams with some of the most innovative
           companies in the world. This inspired me to dive deeper into understanding technology and software development
           from a business context and now I am putting all these pieces together. <br /> <br />
+          I work Full Stack, mostly with Javascript/Typescript (Node, React, Next), but occasionally with PHP and
+          Python, and have experience building and maintaining microservices taking them from design to deployment. I'm
+          also comfortable working with devops and infra technologies (docker, terraform, Kubernetes, AWS, Openstack).{" "}
+          <br /> <br />
           I enjoy the challenge of balancing technical and business requirements so that we can efficiently create
           exciting and robust products. Whenever possible, I am always looking to use a data-driven approach - for
           instance, to ensure our products are intuitive and easy to use. <br /> <br />
