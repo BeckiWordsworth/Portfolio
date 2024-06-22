@@ -8,20 +8,64 @@ const TalksPage = () => {
   return (
     <div className="TechPageContainer">
       <section className="landing-section my-projects">
-        <h2>Selected Talks &amp; Events</h2>
+        <h2>Conferences</h2>
         <hr />
         <div className="talks-container content-padding">
           {talksJson.talks.map((talk) => {
-            return (
-              <ListCard
-                id={talk.id}
-                title={talk.title}
-                previewImage={talk.previewImage}
-                conference={talk.conference}
-                date={talk.date}
-                city={talk.city}
-              />
-            );
+            if (talk.type === "conference") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
+          })}
+        </div>
+      </section>
+
+      <section className="landing-section my-projects">
+        <h2>Events</h2>
+        <hr />
+        <div className="talks-container content-padding">
+          {talksJson.talks.map((talk) => {
+            if (talk.type === "event") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
+          })}
+        </div>
+      </section>
+
+      <section className="landing-section my-projects">
+        <h2>Mentoring</h2>
+        <hr />
+        <div className="talks-container content-padding">
+          {talksJson.talks.map((talk) => {
+            if (talk.type === "event") {
+              return (
+                <ListCard
+                  id={talk.id}
+                  title={talk.title}
+                  previewImage={talk.previewImage}
+                  conference={talk.conference}
+                  date={talk.date}
+                  city={talk.city}
+                />
+              );
+            }
           })}
         </div>
       </section>
