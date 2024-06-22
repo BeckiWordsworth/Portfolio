@@ -14,12 +14,12 @@
     {
       "id": 2,
       "type": "conference",
-      "title": "The Ethics of Generative AI",
+      "title": "The Genie in the Bottle: The Ethics of Generative AI",
       "previewImage": "regatta2023.jpeg",
       "conference": "Women in Tech Regatta Conference",
       "city": "Stockholm, Sweden",
       "date": "October 2023",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
+      "description" : "This talk delves into the ethical considerations surrounding generative AI exploring the profound implications of generative AI on society, individual rights, and ethical standards.",
       "previewText": "Discussing the ethics of generative AI."
     },
     {
@@ -30,34 +30,27 @@
       "conference": "Technigo",
       "city": "Multiple workshops remote/in person",
       "date": "Latest May 2024",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "description" : "Are you curious about what to highlight on your profile as a career changer, are new in the industry or just looking for some handy insider tips. This session will give you direct insights into a tech recruiter's mind",
+      "previewText": "What to highlight on your profile as a career changer, starting in a new industry or just looking for some handy insider tips from a tech hiring manager and previous Tech recruter.",
+      "link": "https://www.technigo.io/events/insights-from-a-tech-recruiter"
+
     }
     ,
     {
       "id": 4,
-      "type": "webinar",
+      "type": "talk",
       "title": "Roundtable - Perfection vs Pragmatism",
       "previewImage": "roundtable.png",
       "conference": "The Live Sessions",
       "city": "Remote",
       "date": "May 2024",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+      "description" : "Roundtable discussion as part of the The Live Series on the subject of Perfection vs Pragmatism in software development and is there a right or wrong choice 💡 ",
+      "previewText": "As a software engineer, you will always find that some people want to perfect their craft, whilst others prioritize speed of delivery. So what makes people choose one or the other? Is there a right or wrong choice? In this episode, the panel discussed how they would describe themselves, has their approach changed since becoming a leader and if so, how?, and what would make them change their approach, among other things",
+      "link": "https://www.youtube.com/watch?v=Pp5Tm06nzAQ"
+
     },
     {
       "id": 5,
-      "type": "event",
-      "title": "Internal Hackathons",
-      "previewImage": "hackathonfr24.png",
-      "conference": "Flightradar24 and Hiotlabs",
-      "city": "Stockholm",
-      "date": "Nov 2022 & May 2024",
-      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
-      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
-    },
-    {
-      "id": 6,
       "type": "event",
       "title": "Sthlm.js Meetup group",
       "previewImage": "sthlm.jpeg",
@@ -68,18 +61,31 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 7,
+      "id": 6,
       "type": "event",
       "title": "Openhack Hackathon",
       "previewImage": "openhack.jpeg",
-      "conference": "Participant coordinator",
+      "conference": "Event Coordinator and Participant coordinator",
       "city": "Stockholm",
       "date": "Nov 2018 & Dec 2019",
       "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 8,
+      "id": 7,
+      "type": "event",
+      "title": "Internal Hackathons",
+      "previewImage": "hackathonfr24.png",
+      "conference": "Flightradar24 and Hiotlabs",
+      "city": "Stockholm",
+      "date": "Nov 2022 & May 2024",
+      "description" : "On average it takes 10 years to get a drug candidate from discovery to market. The hope is that AI could reduce that time by 50% while at the same time reducing costs. However, there are several potential ethical and practical considerations that must be addressed at every step of the process to maximise the benefits while minimising potential risks. While quality of data and biological complexity remain big hurdles, so does lack of transparency in a space where we need to understand why choices are made to reduce bias and improve innovation. As AI algorithms used in drug discovery are complex and difficult to interpret, researchers and regulators can struggle to understand how decisions are made and whether they are based on valid scientific principles. One solution is to explore Explainable AI (XAI) techniques that provide human-understandable explanations for model decisions. Using XAI model  methodologies we can get a deeper understanding of model behaviour, identify potential biases or errors, and make informed decisions about drug candidates, targets, and safety considerations, thus enhances transparency and promoting responsible and ethical AI-driven drug discovery.",
+      "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
+    },
+
+
+    {
+      "id": 9,
       "type": "webinar",
       "title": "Evolution Exchange",
       "previewImage": "evo.png",
@@ -90,8 +96,8 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 9,
-      "type": "conference",
+      "id": 10,
+      "type": "mentor",
       "title": "Co Storm Mentor",
       "previewImage": "costorm.JPEG",
       "conference": "Co-storm: Women in Tech Regatta",
@@ -101,8 +107,8 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 10,
-      "type": "conference",
+      "id": 11,
+      "type": "talk",
       "title": "Intro to everything - building your first webpage",
       "previewImage": "everything.jpg",
       "conference": "Code Excursion",
