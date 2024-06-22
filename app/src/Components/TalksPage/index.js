@@ -29,7 +29,7 @@ const TalksPage = () => {
       </section>
 
       <section className="landing-section my-projects">
-        <h2>Events</h2>
+        <h2>Event Organiser</h2>
         <hr />
         <div className="talks-container content-padding">
           {talksJson.talks.map((talk) => {
@@ -54,7 +54,7 @@ const TalksPage = () => {
         <hr />
         <div className="talks-container content-padding">
           {talksJson.talks.map((talk) => {
-            if (talk.type === "event") {
+            if (talk.type === "mentor") {
               return (
                 <ListCard
                   id={talk.id}
