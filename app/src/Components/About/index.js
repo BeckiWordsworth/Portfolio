@@ -42,7 +42,7 @@ const About = () => {
                 </span>
               </div>
               <div class="desc">
-                <strong>Hiotlabs AB, Stockholm</strong>
+                <strong>Vivologica AB, Stockholm</strong>
                 <br /> <br />
                 VivoLogica offers the first cloud based medical record system for pre-clinical in vivo studies on the
                 market, a best-in-class multi-platform compliant with 3R and research regulations making it easy to stay
@@ -52,7 +52,7 @@ const About = () => {
                 to build a product that our customers find intuitive and love to use. Everything from hands on
                 development and growing and leading a team to building strategy.
                 <br /> <br />
-                Highlights: Javascript/Typescript, React, React Native, Redux, Node, MongoDB, Docker, Kubernetes
+                Highlights: Typescript, Next.js, Node, MongoDB, Docker
               </div>
             </div>
           </li>
