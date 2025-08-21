@@ -8,6 +8,27 @@ const About = () => {
         <h2> About me </h2>
         <hr />
 
+         <ul class="timeline">
+          <li>
+            <div class="direction-r">
+              <div class="flag-wrapper">
+                <span class="hexa" />
+                <span class="flag">CTO</span>
+                <span class="time-wrapper">
+                  <span class="time">August 2025 - now</span>
+                </span>
+              </div>
+              <div class="desc">
+                <strong>Meela AB, Stockholm</strong>
+                <br /> <br />
+                Meela helps you navigate the therapy maze. Using research-based technology, Meela matches you with the right therapist and therapy method for your unique needs – so you can get the support you deserve right from the start, with someone you truly feel comfortable with.
+          
+                <br /> <br />
+                Highlights: Javascript/Typescript, SolidJs, Rust, Postgres, Docker
+              </div>
+            </div>
+          </li>
+
         <ul class="timeline">
           <li>
             <div class="direction-l">
@@ -15,7 +36,7 @@ const About = () => {
                 <span class="hexa" />
                 <span class="flag">Web Engineering Manager</span>
                 <span class="time-wrapper">
-                  <span class="time">Mar 2024 - now</span>
+                  <span class="time">Mar 2024 - August 2025</span>
                 </span>
               </div>
               <div class="desc">
