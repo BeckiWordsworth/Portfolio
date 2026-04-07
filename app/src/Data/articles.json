@@ -3,13 +3,21 @@
     {
       "id": 1,
       "type": "article",
+      "title": "Type Safety vs Velocity: Lessons from Using Rust at a Startup",
+      "previewImage": "rustarticle.jpg",
+      "mediumUrl": "https://medium.com/@becki.wordsworth/type-safety-vs-velocity-lessons-from-using-rust-at-a-startup-a383204398a3",
+      "previewText": "Exploring the trade-off between type safety and development speed through the lens of using Rust at a startup. We reflect on the real-world challenges of balancing Rust’s powerful guarantees with the need to move quickly in fast-paced environments."
+    },
+    {
+      "id": 2,
+      "type": "article",
       "title": "Navigating Technical Debt as an Engineering Leader",
       "previewImage": "help.png",
       "mediumUrl": "https://medium.com/@becki.wordsworth/navigating-technical-debt-as-a-engineering-leader-eaca48a84cc1",
       "previewText": "Technical Debt. Whatever your role, it’s probably a term that fills you with dread. While we have all worked with it in one capacity or another, as an engineering leader, it’s your job to navigate the challenges and build strategies for managing technical debt effectively, so everyone can have fewer sleepless nights!"
     },
     {
-      "id": 2,
+      "id": 3,
       "type": "article",
       "title": "Cracking the Code: Navigating the First Week as a Junior Developer",
       "previewImage": "junior.png",
@@ -17,7 +25,7 @@
       "previewText": "Joining an organisation as a junior developer can bring with it a number of questions and the biggest one is often ‘what is expected of me? Your are likely navigating a full team of developers, of various levels, for the first time ..."
     },
     {
-      "id": 3,
+      "id": 4,
       "type": "article",
       "title": "Making the most of office days for a hybrid team",
       "previewImage": "team.png",
@@ -25,7 +33,7 @@
       "previewText": "Cards on the table, I like working hybrid. I know it’s not the popular opinion nowadays, but I do. I like the flexibility of being able to work at home but I also like going to the office and socialising with real life people from time to time. My team has been working hybrid since the end of the ..."
     },
     {
-      "id": 4,
+      "id": 5,
       "type": "article",
       "title": "Your first role in tech won’t be perfect — and it doesn’t have to be",
       "previewImage": "lovejob.png",
@@ -33,7 +41,7 @@
       "previewText": "Searching for your first developer role after a bootcamp, University, or self study can be hard. No one gets the first job they apply for and during the process you will question everything — is my code not perfect enough? Is my job title confusing? ..."
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "article",
       "title": "What to expect when making the leap from developer to Tech Lead",
       "previewImage": "techlead.png",
@@ -41,7 +49,7 @@
       "previewText": "When I started my career in tech, leadership wasn’t really something I was thinking about — my aim was just on becoming the best programmer I could be. Another reason I hadn’t thought about leadership was that I didn’t really...."
     },
     {
-      "id": 6,
+      "id": 7,
       "type": "article",
       "title": "Distractions — The Death of an Efficient Tech Team",
       "previewImage": "distractions.png",
@@ -49,7 +57,7 @@
       "previewText": "Perhaps you have just taken on the role of Tech Lead or Product Owner and everyone wants to meet with your developers, but you’re wondering… when are they going to get their coding done!? Finding the right balance between shielding the team from too many meetings but helping them to talk with stakeholders who ....."
     },
     {
-      "id": 7,
+      "id": 8,
       "type": "article",
       "title": "Breaking in to your new career in Tech",
       "previewImage": "bootcamp.png",
