@@ -22,14 +22,12 @@ const About = () => {
                 <strong>Meela AB, Stockholm</strong>
                 <br /> <br />
                 Meela helps you navigate the therapy maze. Using research-based technology, Meela matches you with the right therapist and therapy method for your unique needs – so you can get the support you deserve right from the start, with someone you truly feel comfortable with.
-          
                 <br /> <br />
                 Highlights: Javascript/Typescript, SolidJs, Rust, Postgres, Docker
               </div>
             </div>
           </li>
 
-        <ul class="timeline">
           <li>
             <div class="direction-l">
               <div class="flag-wrapper">

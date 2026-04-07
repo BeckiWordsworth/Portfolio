@@ -21,45 +21,38 @@ const Landing = () => {
         <h2>About Me</h2>
         <hr />
         <p>
-          I am an Engineering Leader and Software Developer with a PhD in Physics, a passion for innovation, and a mild
-          obsession with data. I have a history of building and scaling engineering teams and I’m at my best when
-          combining my technical and people skills to motivate and guide others.
+          I am a Software Developer and Engineering Leader with a PhD in Physics, a passion for innovation, and a (not
+          so mild) obsession with data. My career spans academia, technical recruiting, and software development, giving
+          me a unique perspective on delivering impactful technical solutions that drive business value and building and
+          empowering high-performing engineering teams.
           <br /> <br />
-          While working in research, I focussed on statistical analysis and digging into different forms of data
-          visualisation - trying to present complex concepts in a understandable way - which pushed me to delve deeper
-          into programming. <br /> <br />
-          After research, I spent 3 years as a technical recruiter, growing tech teams with some of the most innovative
-          companies in the world. This inspired me to dive deeper into understanding technology and software development
-          from a business context and now I am putting all these pieces together. <br /> <br />
-          I work Full Stack, mostly with Javascript/Typescript (Node, React, Next), but occasionally with PHP and
-          Python, and have experience building and maintaining microservices taking them from design to deployment. I'm
-          also comfortable working with devops and infra technologies (docker, terraform, Kubernetes, AWS, Openstack).{" "}
-          <br /> <br />
-          I enjoy the challenge of balancing technical and business requirements so that we can efficiently create
-          exciting and robust products. Whenever possible, I am always looking to use a data-driven approach - for
-          instance, to ensure our products are intuitive and easy to use. <br /> <br />
-          In my spare time, I like to stay up to date by building small applications with JavaScript/Typescript and
-          Python, improving my knowledge and skills in the area of machine learning and AI (a long term passion of mine
-          - I refer you back to my mild obsession with all things data related), and reading and writing blogs relating
-          to tech, leadership, and recruitment. You can read some of them on{" "}
+          Over the years, I’ve taken multiple products from concept to production and beyond, always with a focus on
+          delivering business value through scalable, reliable, and user-friendly solutions. My toolkit has revolved
+          around JavaScript/TypeScript, React, Next.js, and Node.js, with side quests into PHP, Python, and now Rust -
+          basically whatever the problem at hand demands. <br /> <br />
+          Outside of work, I continue to feed my technical curiosity by building small apps, tinkering with hardware,
+          and exploring machine learning and AI (a long term passion of mine - I refer you back to my mild obsession
+          with data). I also enjoy sharing knowledge through blogs (you can read some of them on{" "}
           <a href="https://medium.com/@becki.wordsworth" target="_blank" rel="noopener noreferrer">
             Medium{" "}
           </a>{" "}
-          <br /> <br />I also enjoy getting involved and giving back to the tech community. I am a co-organiser of{" "}
+          ), conference talks, and events.
+          <br /> <br />
+          Community is very important to me. I am a co-organiser of{" "}
           <a href="https://www.meetup.com/sthlm-js/" target="_blank" rel="noopener noreferrer">
             sthlm.js
           </a>
-          , a large Javascript Meetup group in Stockholm, and head of events and workshop leader for{" "}
-          <a href="https://www.code-excursion.com/" target="_blank" rel="noopener noreferrer">
-            {" "}
-            Code Excursion
+          , Stockholm’s largest JavaScript meetup, and the Stockholm chapter of{" "}
+          <a href="https://www.meetup.com/leaddev-meetup-stockholm/" target="_blank" rel="noopener noreferrer">
+            LeadDev
           </a>
-          , an organisation runnning programming classes and events aimed at bringing more women into tech.
+          . I also collaborate with initiatives like Code Excursion, running workshops and events aimed at bringing more
+          women into tech.
           <br /> <br />
-          Overall, I just enjoy working with innovative technology alongside passionate people, and make a bit of a
-          difference in the world.
+          At the end of the day, I simply want to work with innovative technology alongside passionate people and,
+          hopefully, make a bit of a difference in the world.
           <br />
-          <br /> Tech: HTML5, CSS, JavaScript/Typescript, React, Redux, NodeJS, Python, MongoDB, Docker, Kubernetes
+          <br /> Current Stack: JavaScript/Typescript, SolidJS, Rust, PostgresSQL
         </p>
       </section>
 
