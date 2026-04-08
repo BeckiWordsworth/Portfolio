@@ -35,7 +35,7 @@ const Landing = () => {
           with data). I also enjoy sharing knowledge through blogs (you can read some of them on{" "}
           <a href="https://medium.com/@becki.wordsworth" target="_blank" rel="noopener noreferrer">
             Medium{" "}
-          </a>{" "}
+          </a>
           ), conference talks, and events.
           <br /> <br />
           Community is very important to me. I am a co-organiser of{" "}

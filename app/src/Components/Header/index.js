@@ -21,13 +21,13 @@ const ProjectPage = () => {
               <a href="/about-me/">About Me</a>
             </li>
             <li>
-              <a href="/my-projects/">Projects</a>
-            </li>
-            <li>
               <a href="/articles/">Articles</a>
             </li>
             <li>
               <a href="/talks/">Talks</a>
+            </li>
+            <li>
+              <a href="/my-projects/">Projects</a>
             </li>
             <li>
               <a href="/phd/">PhD</a>
